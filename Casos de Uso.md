@@ -4,16 +4,15 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
 
 ## Tabela de Conteúdos
 
-[Casos de Uso](#casos-de-uso)
-
-* [UC-01 Realizar Cadastro](#uc-01-realizar-cadastro)
-* [UC-02 Realizar Login](#uc-02-realizar-login)
-* [UC-03 Visualizar Página Inicial](#uc-03-visualizar-página-inicial)
-* [UC-04 Criar Crachás](#uc-04-criar-crachás)
-* [UC-05 Visualizar Crachás](#uc-05-visualizar-crachás)
-* [UC-06 Modificar Crachás](#uc-06-modificar-crachás)
-* [UC-07 Deletar Crachás](#uc-07-deletar-crachás)
-* [UC-08 Exportar Crachás](#uc-08-exportar-crachás)
+- [Casos de Uso](#casos-de-uso)
+  - [UC-01 Realizar Cadastro](#uc-01-realizar-cadastro)
+  - [UC-02 Realizar Login](#uc-02-realizar-login)
+  - [UC-03 Visualizar Página Inicial](#uc-03-visualizar-página-inicial)
+  - [UC-04 Criar Crachás](#uc-04-criar-crachás)
+  - [UC-05 Visualizar Crachás](#uc-05-visualizar-crachás)
+  - [UC-06 Modificar Crachás](#uc-06-modificar-crachás)
+  - [UC-07 Deletar Crachás](#uc-07-deletar-crachás)
+  - [UC-08 Exportar Crachás](#uc-08-exportar-crachás)
 
 ## Casos de Uso
 
