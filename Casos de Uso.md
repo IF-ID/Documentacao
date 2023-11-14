@@ -260,6 +260,89 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
 
 ### [UC-04] Criar Crachás
 
+![Diagrama de Atividades - UC-04](/Diagramas/Diagramas%20de%20Atividades/[UC-04]%20Criar%20Crachás.png "Diagrama de Atividades - UC-04")
+
+<table>
+  <tr>
+    <th>Nome</th>
+    <td>Criar Crachás</td>
+  </tr>
+  <tr>
+    <th>ID</th>
+    <td>UC-04</td>
+  </tr>
+  <tr>
+    <th>Atores</th>
+    <td><ul>
+      <li>Usuário</li>
+      <li>Sistema</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Descrição</th>
+    <td>O caso de uso descreve o processo pelo qual o usuário cria um ou mais crachás no sistema.</td>
+  </tr>
+  <tr>
+    <th>Fluxo Principal</th>
+    <td><ol>
+      <li>O usuário acessa a funcionalidade "Criar Crachás" na página inicial do sistema.</li>
+      <li>O sistema exibe um formulário ou interface para a criação de crachás.</li>
+      <li>O usuário preenche as informações necessárias para os novos crachás: nome, matrícula, modalidade, curso e foto.</li>
+      <li>O sistema valida as informações fornecidas.</li>
+      <li>Se as informações são válidas, o sistema cria os crachás.</li>
+      <li>O sistema verifica se o usuário está logado.</li>
+      <li>Se o usuário está logado, o sistema salva o crachá na conta do usuário.</li>
+      <li>O sistema fornece feedback ao usuário sobre a conclusão bem-sucedida do processo.</li>
+      <li>O sistema redireciona o usuário para a página de visualização do crachá.</li>
+  </tr>
+  <tr>
+    <th>Fluxo Alternativo 4-a: Informações Inválidas</th>
+    <td><ol>
+      <li>Se as informações não são validas, o sistema mostra as mensagens de erro correspondentes.</li>
+    <ol></td>
+  </tr>
+  <tr>
+    <th>Fluxo Alternativo 6-a: Usuário não está logado</th>
+    <td><ol>
+      <li>Se o usuário não está logado, o sistema redireciona o usuário para a página de exportar crachás.</li>
+    <ol></td>
+  </tr>
+  <tr>
+    <th>Pré-Condições</th>
+    <td><ul>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Pós-Condições</th>
+    <td><ul>
+      <li>O usuário cria um ou mais crachás.</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Requisitos Funcionais</th>
+    <td><ul>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Requisitos Não Funcionais</th>
+    <td><ul>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Casos de Uso Relacionados</th>
+    <td><ul>
+      <li><a href="#uc-03-visualizar-página-inicial">[UC-03] Visualizar Páginas</a></li>
+      <li><a href="#uc-05-visualizar-crachás">[UC-05] Visualizar Crachás</a></li>
+      <li><a href="#uc-08-exportar-crachás">[UC-08] Exportar Crachás</a></li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Notas</th>
+    <td><ul>
+    </ul></td>
+  </tr>
+</table>
+
 ### [UC-05] Visualizar Crachás
 
 ### [UC-06] Modificar Crachás
