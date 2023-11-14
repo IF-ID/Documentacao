@@ -345,7 +345,158 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
 
 ### [UC-05] Visualizar Crachás
 
+![Diagrama de Atividades - UC-05](/Diagramas/Diagramas%20de%20Atividades/[UC-05]%20Visualizar%20Crachás.png "Diagrama de Atividades - UC-05")
+
+<table>
+  <tr>
+    <th>Nome</th>
+    <td>Visualizar Crachás</td>
+  </tr>
+  <tr>
+    <th>ID</th>
+    <td>UC-05</td>
+  </tr>
+  <tr>
+    <th>Atores</th>
+    <td><ul>
+      <li>Usuário Autenticado</li>
+      <li>Sistema</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Descrição</th>
+    <td>O caso de uso descreve a interação do usuário com a funcionalidade de visualização dos crachás existentes no sistema.</td>
+  </tr>
+  <tr>
+    <th>Fluxo Principal</th>
+    <td><ol>
+      <li>O usuário acessa a funcionalidade "Visualizar Crachás" na página inicial.</li>
+      <li>O sistema exibe uma lista ou galeria de crachás disponíveis.</li>
+      <li>O usuário pode selecionar crachás para realizar as operações: Exportar Crachás, Modificar Crachás e Deletar Crachás, além de criar novos crachás.</li>
+  <tr>
+    <th>Fluxo Alternativo 2-a: Sem Crachás Disponíveis</th>
+    <td><ol>
+      <li>Se não houver crachás cadastrados, o sistema exibe uma mensagem indicando a ausência de crachás.</li>
+    <ol></td>
+  </tr>
+  <tr>
+    <th>Pré-Condições</th>
+    <td><ul>
+      <li>O usuário está autenticado no sistema.</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Pós-Condições</th>
+    <td><ul>
+      <li>O usuário visualiza os crachás disponíveis.</li>
+      <li>O usuário pode selecionar crachás para realizar outras operações do site.</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Requisitos Funcionais</th>
+    <td><ul>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Requisitos Não Funcionais</th>
+    <td><ul>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Casos de Uso Relacionados</th>
+    <td><ul>
+      <li><a href="#uc-03-visualizar-página-inicial">[UC-03] Visualizar Página Inicial</a></li>
+      <li><a href="#uc-04-criar-crachás">[UC-04] Criar Crachás</a></li>
+      <li><a href="#uc-06-modificar-crachás">[UC-06] Modificar Crachás</a></li>
+      <li><a href="#uc-07-deletar-crachás">[UC-07] Deletar Crachás</a></li>
+      <li><a href="#uc-08-exportar-crachás">[UC-08] Exportar Crachás</a></li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Notas</th>
+    <td><ul>
+      <li>Implementar uma opção de visualização detalhada para obter informações adicionais sobre cada crachá.</li>
+    </ul></td>
+  </tr>
+</table>
+
 ### [UC-06] Modificar Crachás
+
+![Diagrama de Atividades - UC-06](/Diagramas/Diagramas%20de%20Atividades/[UC-06]%20Modificar%20Crachás.png "Diagrama de Atividades - UC-06")
+
+<table>
+  <tr>
+    <th>Nome</th>
+    <td>Modificar Crachás</td>
+  </tr>
+  <tr>
+    <th>ID</th>
+    <td>UC-06</td>
+  </tr>
+  <tr>
+    <th>Atores</th>
+    <td><ul>
+      <li>Usuário Autenticado</li>
+      <li>Sistema</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Descrição</th>
+    <td>O caso de uso descreve o processo pelo qual um usuário faz modificações nos crachás existentes no sistema.</td>
+  </tr>
+  <tr>
+    <th>Fluxo Principal</th>
+    <td><ol>
+      <li>O usuário seleciona os crachás na página de visualizar crachás e seleciona a opção “Modificar Crachás”.</li>
+      <li>O sistema exibe um formulário ou interface que permite a edição das informações dos crachás.</li>
+      <li>O usuário realiza as modificações desejadas.</li>
+      <li>O sistema valida as informações modificadas.</li>
+      <li>Se as informações são válidas, o sistema atualiza o crachá com as modificações realizadas.</li>
+      <li>O sistema fornece feedback ao usuário sobre a conclusão bem-sucedida do processo.</li>
+    </ol></td>
+  </tr>
+  <tr>
+    <th>Fluxo Alternativo 4-a: Informações Inválidas</th>
+    <td><ol>
+      <li>Se as informações são inválidas, o sistema mostra as mensagens de erro correspondentes.</li>
+    <ol></td>
+  </tr>
+  <tr>
+    <th>Pré-Condições</th>
+    <td><ul>
+      <li>O usuário está autenticado no sistema.</li>
+      <li>Existem crachás cadastrados no sistema.</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Pós-Condições</th>
+    <td><ul>
+      <li>O crachá modificado é atualizado no sistema.</li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Requisitos Funcionais</th>
+    <td><ul>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Requisitos Não Funcionais</th>
+    <td><ul>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Casos de Uso Relacionados</th>
+    <td><ul>
+      <li><a href="#uc-05-visualizar-crachás">[UC-05] Visualizar Crachás</a></li>
+    </ul></td>
+  </tr>
+  <tr>
+    <th>Notas</th>
+    <td><ul>
+      <li>Oferecer opções de personalização, como atualização de foto ou alteração de informações pessoais.</li>
+    </ul></td>
+  </tr>
+</table>
 
 ### [UC-07] Deletar Crachás
 
