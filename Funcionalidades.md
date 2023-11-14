@@ -4,8 +4,6 @@ Nesta seção serão definidas as funcionalidades iniciais do sistema a partir d
 
 ## Tabela de Conteúdos
 
-## Table of Contents
-
 - [Funcionalidades](#funcionalidades-1)
 - [Proto Personas](#proto-personas)
   - [João](#joão)
