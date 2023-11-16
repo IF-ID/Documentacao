@@ -133,9 +133,78 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
 
 #### [RF-C04] Feedback de Modificação bem sucedida
 
+<table>
+   <tr>
+      <th>Nome</th>
+      <td> Feedback de Modificação bem sucedida </td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-C04</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Usuário</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O sistema deve fornecer um feedback, sendo uma página ou um alerta de que os crachás foram modificados com sucesso.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td></td>
+   </tr>
+</table>
+
 #### [RF-C05] Feedback de Exclusão bem sucedida
 
+<table>
+   <tr>
+      <th>Nome</th>
+      <td> Feedback de Exclusão bem sucedida </td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-C05</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Usuário</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O sistema deve fornecer um feedback, sendo uma página ou um alerta de que os crachás foram excluídos com sucesso.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td></td>
+   </tr>
+</table>
+
 #### [RF-C06] Feedback de Crachá exportado com sucesso
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td> Feedback de Crachá exportado com sucesso </td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-C06</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Usuário</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O sistema deve fornecer um feedback, sendo uma página ou um alerta de que os crachás foram esportados com sucesso.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td></td>
+   </tr>
+</table>
 
 ### Middlewares
 
