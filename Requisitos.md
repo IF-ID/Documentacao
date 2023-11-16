@@ -1,5 +1,55 @@
 # Requisitos
 
+Esta seção descreve os requisitos funcionais e não funcionais definidos a partir da análise dos casos de uso.
+
+## Tabela de Conteúdos
+
+* Requisitos Funcionais
+   * Controllers
+      * [[RF-C01] Mensagens de Erro](#rf-c01-mensagens-de-erro)
+      * [[RF-C02] Feedback de Cadastro Bem-Sucedido](#rf-c02-feedback-de-cadastro-bem-sucedido)
+      * [[RF-C03] Feedback de Crachá Criado Com Sucesso](#rf-c03-feedback-de-crachá-criado-com-sucesso)
+      * [[RF-C04] Feedback de Modificação Bem-Sucedida](#rf-c04-feedback-de-modificação-bem-sucedida)
+      * [[RF-C05] Feedback de Exclusão Bem-Sucedida](#rf-c05-feedback-de-exclusão-bem-sucedida)
+      * [[RF-C06] Feedback de Crachá Exportado Com Sucesso](#rf-c06-feedback-de-crachá-exportado-com-sucesso)
+   * Middlewares
+      * [[RF-M01] Validar Login](#rf-m01-validar-login)
+      * [[RF-M02] Verificar Logado](#rf-m02-verificar-logado)
+   * Views
+      * [[RF-V01] Página de Cadastro](#rf-v01-página-de-cadastro)
+      * [[RF-V02] Formulário de Cadastro](#rf-v02-formulário-de-cadastro)
+      * [[RF-V03] Termos e Condições](#rf-v03-termos-e-condições)
+      * [[RF-V04] Estatísticas de Uso](#rf-v04-estatísticas-de-uso)
+      * [[RF-V05] Página de Login](#rf-v05-página-de-login)
+      * [[RF-V06] Formulário de Login](#rf-v06-formulário-de-login)
+      * [[RF-V07] Página Inicial](#rf-v07-página-inicial)
+      * [[RF-V08] Página de Criação de Crachás](#rf-v08-página-de-criação-de-crachás)
+      * [[RF-V09] Formulário para Criação de Crachás](#rf-v09-formulário-para-criação-de-crachás)
+      * [[RF-V10] Página de Visualizar Crachás](#rf-v10-página-de-visualizar-crachás)
+      * [[RF-V11] Página de Modificar Crachás](#rf-v11-página-de-modificar-crachás)
+      * [[RF-V12] Formulário de Modificar Crachás](#rf-v12-formulário-de-modificar-crachás)
+      * [[RF-V13] Página de Exportar Crachás](#rf-v13-página-de-exportar-crachás)
+      * [[RF-V14] Formulários das Especificações de Exportação](#rf-v14-formulários-das-especificações-de-exportação)
+   * Services
+      * [[RF-S01] Confirmação do E-mail](#rf-s01-confirmação-do-e-mail)
+      * [[RF-S02] Armazenamento das Informações](#rf-s02-armazenamento-das-informações)
+      * [[RF-S03] Inserir Crachás](#rf-s03-inserir-crachás)
+      * [[RF-S04] Pegar Crachás](#rf-s04-pegar-crachás)
+      * [[RF-S05] Atualizar Crachás](#rf-s05-atualizar-crachás)
+      * [[RF-S06] Excluir Crachás](#rf-s06-excluir-crachás)
+   * Utils
+      * [[RF-U01] Criar Crachás](#rf-u01-criar-crachás)
+      * [[RF-U02] Validação de Dados de Cadastro](#rf-u02-validação-de-dados-de-cadastro)
+      * [[RF-U03] Validação de Dados de Login](#rf-u03-validação-de-dados-de-login)
+      * [[RF-U04] Validar Dados dos Crachás](#rf-u04-validar-dados-dos-crachás)
+      * [[RF-U05] Selecionar Crachás](#rf-u05-selecionar-crachás)
+      * [[RF-U06] Validar Crachás](#rf-u06-validar-crachás)
+      * [[RF-U07] Confirmar Exclusão](#rf-u07-confirmar-exclusão)
+      * [[RF-U08] Exportar Crachás para PDF](#rf-u08-exportar-crachás-para-pdf)
+      * [[RF-U09] Exportar Crachás para PNG](#rf-u09-exportar-crachás-para-png)
+      * [[RF-U10] Download dos Crachás](#rf-u10-download-dos-crachás)
+* Requisitos Não Funcionais
+
 ## Requisitos Funcionais
 
 Esta seção descreve os requisitos específicos relacionados às funcionalidades do sistema, como páginas, formulários e validações necessários para a realização das tarefas descritas nos casos de uso.
@@ -80,6 +130,12 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
       <td></td>
    </tr>
 </table>
+
+#### [RF-C04] Feedback de Modificação bem sucedida
+
+#### [RF-C05] Feedback de Exclusão bem sucedida
+
+#### [RF-C06] Feedback de Crachá exportado com sucesso
 
 ### Middlewares
 
@@ -406,6 +462,14 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
    </tr>
 </table>
 
+#### [RF-V11] Página de Modificar Crachás
+
+#### [RF-V12] Formulário de Modificar Crachás
+
+#### [RF-V13] Página de Exportar Crachás
+
+#### [RF-V14] Formulários das Especificações de Exportação
+
 ### Services
 
 #### [RF-S01] Confirmação do E-mail
@@ -507,6 +571,10 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
       <td></td>
    </tr>
 </table>
+
+#### [RF-S05] Atualizar Crachás
+
+#### [RF-S06] Excluir Crachás
 
 ### Utils
 
@@ -663,5 +731,15 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
       <td></td>
    </tr>
 </table>
+
+#### [RF-U06] Validar Crachás
+
+#### [RF-U07] Confirmar Exclusão
+
+#### [RF-U08] Exportar Crachás para PDF
+
+#### [RF-U09] Exportar Crachás para PNG
+
+#### [RF-U10] Download dos Crachás
 
 ## Requisitos Não Funcionais
