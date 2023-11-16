@@ -533,11 +533,117 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
 
 #### [RF-V11] Página de Modificar Crachás
 
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Página de Modificar Crachás</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-V11</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Usuário</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O sistema fornece uma página na qual o usuário pode modificar um crachá específico criado por ele.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td></td>
+   </tr>
+</table>
+
 #### [RF-V12] Formulário de Modificar Crachás
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Formulário de Modificar Crachás</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-V12</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Usuário</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O sistema deve fornecer um formulário com todas as informações necessárias para a modificação de um ou mais crachás.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td>As informações que serão apresentadas no formulário são:
+         <ul>
+            <li>Nome</li>
+            <li>Matrícula</li>
+            <li>Tipo</li>
+            <li>Curso</li>
+            <li>Foto (Opcional)</li>
+         </ul>
+      </td>
+   </tr>
+</table>
 
 #### [RF-V13] Página de Exportar Crachás
 
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Página de Exportar Crachás</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-V13</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Usuário</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O sistema fornece uma página na qual o usuário pode exportar um crachá específico criado por ele.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td></td>
+   </tr>
+</table>
+
 #### [RF-V14] Formulários das Especificações de Exportação
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Formulários das Especificações de Exportação</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-V14</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Usuário</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O sistema deve fornecer um formulário com todas as informações necessárias para a exportação de um ou mais crachás.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td>As informações que serão apresentadas no formulário são:
+         <ul>
+            <li>Tipo de Arquivo a ser Exportado</li>
+            <li>x</li>
+            <li>x</li>
+         </ul>
+      </td>
+   </tr>
+</table>
 
 ### Services
 
@@ -643,7 +749,53 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
 
 #### [RF-S05] Atualizar Crachás
 
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Atualizar Crachás</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-S05</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O sistema atualiza os crachás criados pelo usuário no banco de dados</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td></td>
+   </tr>
+</table>
+
 #### [RF-S06] Excluir Crachás
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Excluir Crachás</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-S06</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O sistema excluí os crachás criados pelo usuário no banco de dados</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td></td>
+   </tr>
+</table>
 
 ### Utils
 
@@ -803,12 +955,135 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
 
 #### [RF-U06] Validar Crachás
 
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Validar Crachás</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-U06</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>x.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td>A verificação que será realizada é:
+      </td>
+   </tr>
+</table>
+
 #### [RF-U07] Confirmar Exclusão
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Confirmar Exclusão</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-U07</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O Sistema deve reiterar ao usuário se o mesmo quer realmente excluir um crachá, dando-lhe a opção de sim ou de não, para poder deletar ou não o crachá selecionado.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td> A exclusão foi realizada com sucesso.
+      </td>
+   </tr>
+</table>
 
 #### [RF-U08] Exportar Crachás para PDF
 
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Exportar Crachás para PDF</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-U08</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O Sistema deve converter o crachá para o tipo de arquivo PDF, permitindo o usuário o exportar para o meio que preferir.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td> A exportação por PDF foi feita com sucesso!
+      </td>
+   </tr>
+</table>
+
 #### [RF-U09] Exportar Crachás para PNG
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Exportar Crachás para PNG</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-U09</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O Sistema deve converter o crachá para o tipo de arquivo PNG, permitindo o usuário o exportar para o meio que preferir.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td> A exportação por PNG foi feita com sucesso!
+      </td>
+   </tr>
+</table>
 
 #### [RF-U10] Download dos Crachás
 
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Download dos Crachás</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RF-U10</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O Sistema deve disponibilizar o crachá para download, permitindo o usuário o baixar no tipo de arquivo que preferir.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td> Seu Download foi concluído!
+      </td>
+   </tr>
+</table>
+
 ## Requisitos Não Funcionais
+
+Bando de Dados?
+Linguagem de Programação?
