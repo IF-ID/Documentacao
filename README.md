@@ -7,6 +7,7 @@ O IFID é um projeto com o objetivo de disponibilizar uma ferramenta para criaç
 - [Project Pattern](/Project%20Pattern.md) - Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no projeto, inclusive no desenvolvimento.
 - [Funcionalidades](/Funcionalidades.md) - Nesta seção serão definidas as funcionalidades iniciais do sistema a partir da criação de proto-personas.
 - [Casos de Uso](/Casos%20de%20Uso.md) - Os casos de uso são utilizados para especificas as tarefas e os atores envolvidos nelas. Será utilizado futuramente para especificar os requisitos não funcionais do projeto.
+- [Requisitos](/Requisitos.md) - Esta seção descreve os requisitos funcionais e não funcionais definidos a partir da análise dos casos de uso.
 
 ## Autores
 
