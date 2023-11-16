@@ -284,7 +284,9 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
   </tr>
   <tr>
     <th>Requisitos Funcionais</th>
-    <td></td>
+    <td><ul>
+      <li><a href="/Requisitos.md#rf-v07-p%C3%A1gina-inicial">[RF-V07] Página Inicial</a></li>
+    </ul></td>
   </tr>
   <tr>
     <th>Requisitos Não Funcionais</th>
