@@ -94,7 +94,17 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
   </tr>
   <tr>
     <th>Requisitos Funcionais</th>
-    <td></td>
+    <td><ul>
+      <li><a href="/Requisitos.md#rf-v01-p%C3%A1gina-de-cadastro">[RF-V01] Página de Cadastro</a></li>
+      <li><a href="/Requisitos.md#rf-v02-formul%C3%A1rio-de-cadastro">[RF-V02] Formulário de Cadastro</a></li>
+      <li><a href="/Requisitos.md#rf-u02-valida%C3%A7%C3%A3o-de-dados-de-cadastro">[RF-U02] Validação de Dados de Cadastro</a></li>
+      <li><a href="/Requisitos.md#rf-s01-confirma%C3%A7%C3%A3o-do-e-mail">[RF-S01] Confirmação de E-mail</a></li>
+      <li><a href="/Requisitos.md#rf-s02-armazenamento-das-informa%C3%A7%C3%B5es">[RF-S02] Armazenamento de Informações</a></li>
+      <li><a href="/Requisitos.md#rf-c01-mensagens-de-erro">[RF-C01] Mensagens de Erro</a></li>
+      <li><a href="/Requisitos.md#rf-v03-termos-e-condi%C3%A7%C3%B5es">[RF-V03] Termos e Condições</a></li>
+      <li><a href="/Requisitos.md#rf-v04-estat%C3%ADsticas-de-uso">[RF-V04] Estatísticas de Uso</a></li>
+      <li><a href="/Requisitos.md#rf-c02-feedback-de-cadastro-bem-sucedido">[RF-C02] Feedback de Cadastro Bem-Sucedido</a></li>
+    </ul></td>
   </tr>
   <tr>
     <th>Requisitos Não Funcionais</th>
