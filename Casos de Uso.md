@@ -743,10 +743,10 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
       <ul>
         <li><a href="/Requisitos.md#rf-v13-página-de-exportar-crachás">[RF-V13] Página de Exportar Crachás</a></li>
         <li><a href="/Requisitos.md#rf-v14-formulários-das-especificações-de-exportação">[RF-V14] Formulários das Especificações de Exportação</a></li>
-        <li><a href="/Requisitos.md#rf-u08-exportar-crachás-para-pdf">[RF-U08] Exportar Crachás para PDF</a></li>
-        <li><a href="/Requisitos.md#rf-u09-exportar-crachás-para-png">[RF-U09] Exportar Crachás para PNG</a></li>
+        <li><a href="/Requisitos.md#rf-u07-exportar-crachás-para-pdf">[RF-U07] Exportar Crachás para PDF</a></li>
+        <li><a href="/Requisitos.md#rf-u08-exportar-crachás-para-png">[RF-U08] Exportar Crachás para PNG</a></li>
         <li><a href="/Requisitos.md#rf-c06-feedback-de-crachá-exportado-com-sucesso">[RF-C06] Feedback de Crachá Exportado Com Sucesso</a></li>
-        <li><a href="/Requisitos.md#rf-u10-download-dos-crachás-exportados">[RF-U10] Download dos Crachás Exportados</a></li>
+        <li><a href="/Requisitos.md#rf-u09-download-dos-crachás-exportados">[RF-U09] Download dos Crachás Exportados</a></li>
         <li><a href="/Requisitos.md#rf-c01-mensagens-de-erro">[RF-C01] Mensagens de Erro</a></li>
       </ul>
     </td>
