@@ -578,7 +578,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
       <ul>
         <li><a href="/Requisitos.md#rf-v11-página-de-modificar-crachás">[RF-V11] Página de Modificar Crachás</a></li>
         <li><a href="/Requisitos.md#rf-v12-formulário-para-modificar-crachás">[RF-V12] Formulário para Modificar Crachás</a></li>
-        <li><a href="/Requisitos.md#rf-u06-validar-dados-dos-crachás">[RF-U06] Validar Dados dos Crachás</a></li>
+        <li><a href="/Requisitos.md#rf-u04-validar-dados-dos-crachás">[RF-U04] Validar Dados dos Crachás</a></li>
         <li><a href="/Requisitos.md#rf-s05-atualizar-crachás">[RF-S05] Atualizar Crachás</a></li>
         <li><a href="/Requisitos.md#rf-c01-mensagens-de-erro">[RF-C01] Mensagens de Erro</a></li>
         <li><a href="/Requisitos.md#rf-c04-feedback-de-crachá-modificado-com-sucesso">[RF-C04] Feedback de Crachá Modificado Com 
