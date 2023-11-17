@@ -1085,5 +1085,6 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
 
 ## Requisitos Não Funcionais
 
-Bando de Dados?
-Linguagem de Programação?
+digitou a senha 3 vezes errado, time out na cara do fdp
+responsividade kkkkkkkk
+interface simples hahahahahahah
