@@ -664,7 +664,7 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
     <th>Requisitos Funcionais</th>
     <td>
       <ul>
-        <li><a href="/Requisitos.md#rf-u07-confirmar-exclusão">[RF-U07] Confirmar Exclusão</a></li>
+        <li><a href="/Requisitos.md#rf-u06-confirmar-exclusão">[RF-U06] Confirmar Exclusão</a></li>
         <li><a href="/Requisitos.md#rf-s06-excluir-crachás">[RF-S06] Excluir Crachás</a></li>
         <li><a href="/Requisitos.md#rf-c01-mensagens-de-erro">[RF-C01] Mensagens de Erro</a></li>
         <li><a href="/Requisitos.md#rf-c05-feedback-de-exclusão-bem-sucedida">[RF-C05] Feedback de Exclusão Bem-Sucedida</a></li>
