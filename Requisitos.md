@@ -43,11 +43,10 @@ Esta seção descreve os requisitos funcionais e não funcionais definidos a par
       * [[RF-U03] Validação de Dados de Login](#rf-u03-validação-de-dados-de-login)
       * [[RF-U04] Validar Dados dos Crachás](#rf-u04-validar-dados-dos-crachás)
       * [[RF-U05] Selecionar Crachás](#rf-u05-selecionar-crachás)
-      * [[RF-U06] Validar Crachás](#rf-u06-validar-crachás)
-      * [[RF-U07] Confirmar Exclusão](#rf-u07-confirmar-exclusão)
-      * [[RF-U08] Exportar Crachás para PDF](#rf-u08-exportar-crachás-para-pdf)
-      * [[RF-U09] Exportar Crachás para PNG](#rf-u09-exportar-crachás-para-png)
-      * [[RF-U10] Download dos Crachás](#rf-u10-download-dos-crachás)
+      * [[RF-U06] Confirmar Exclusão](#rf-u06-confirmar-exclusão)
+      * [[RF-U07] Exportar Crachás para PDF](#rf-u07-exportar-crachás-para-pdf)
+      * [[RF-U08] Exportar Crachás para PNG](#rf-u08-exportar-crachás-para-png)
+      * [[RF-U09] Download dos Crachás](#rf-u09-download-dos-crachás)
 * Requisitos Não Funcionais
 
 ## Requisitos Funcionais
@@ -548,11 +547,13 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
    </tr>
    <tr>
       <th>Descrição</th>
-      <td>O sistema fornece uma página na qual o usuário pode modificar um crachá específico criado por ele.</td>
+      <td>O sistema fornece uma página na qual o usuário pode modificar um ou mais crachás criados por ele.</td>
    </tr>
    <tr>
       <th>Observações/ Notas Adicionais</th>
-      <td></td>
+      <td>
+        Apenas usuários logados podem acessar esta página.
+      </td>
    </tr>
 </table>
 
@@ -606,11 +607,13 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
    </tr>
    <tr>
       <th>Descrição</th>
-      <td>O sistema fornece uma página na qual o usuário pode exportar um crachá específico criado por ele.</td>
+      <td>O sistema fornece uma página na qual o usuário pode exportar um ou mais crachás criados por ele.</td>
    </tr>
    <tr>
       <th>Observações/ Notas Adicionais</th>
-      <td></td>
+      <td>
+        Tanto usuários logados quanto não-logados podem acessar esta página.
+      </td>
    </tr>
 </table>
 
@@ -638,8 +641,6 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
       <td>As informações que serão apresentadas no formulário são:
          <ul>
             <li>Tipo de Arquivo a ser Exportado</li>
-            <li>x</li>
-            <li>x</li>
          </ul>
       </td>
    </tr>
@@ -953,12 +954,12 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
    </tr>
 </table>
 
-#### [RF-U06] Validar Crachás
+#### [RF-U06] Confirmar Exclusão
 
 <table>
    <tr>
       <th>Nome</th>
-      <td>Validar Crachás</td>
+      <td>Confirmar Exclusão</td>
    </tr>
    <tr>
       <th>ID</th>
@@ -970,21 +971,23 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
    </tr>
    <tr>
       <th>Descrição</th>
-      <td>x.</td>
+      <td>O Sistema deve reiterar ao usuário se o mesmo quer realmente excluir um ou mais crachás, dando-lhe a opção de sim ou de não, para poder deletar ou não o/os crachá/ás selecionado/os.</td>
    </tr>
    <tr>
       <th>Observações/ Notas Adicionais</th>
-      <td>A verificação que será realizada é:
+      <td> 
+        Em caso de confirmação da exclusão, deverá ser retornado uma String dizendo: "A exclusão foi realizada com sucesso."
+        Em caso de cancelamento da exclusão, o usuário deverá ser redirecionado a página de "Seleção de Crachás"
       </td>
    </tr>
 </table>
 
-#### [RF-U07] Confirmar Exclusão
+#### [RF-U07] Exportar Crachás para PDF
 
 <table>
    <tr>
       <th>Nome</th>
-      <td>Confirmar Exclusão</td>
+      <td>Exportar Crachás para PDF</td>
    </tr>
    <tr>
       <th>ID</th>
@@ -996,21 +999,22 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
    </tr>
    <tr>
       <th>Descrição</th>
-      <td>O Sistema deve reiterar ao usuário se o mesmo quer realmente excluir um crachá, dando-lhe a opção de sim ou de não, para poder deletar ou não o crachá selecionado.</td>
+      <td>O Sistema deve converter o/os crachá/ás para o tipo de arquivo PDF, permitindo o usuário o/os exportar para o meio que preferir.</td>
    </tr>
    <tr>
       <th>Observações/ Notas Adicionais</th>
-      <td> A exclusão foi realizada com sucesso.
+      <td> 
+      Em caso de confirmação da exportação, deverá ser retornado uma String dizendo: "A exportação por PDF foi feita com sucesso!"
       </td>
    </tr>
 </table>
 
-#### [RF-U08] Exportar Crachás para PDF
+#### [RF-U08] Exportar Crachás para PNG
 
 <table>
    <tr>
       <th>Nome</th>
-      <td>Exportar Crachás para PDF</td>
+      <td>Exportar Crachás para PNG</td>
    </tr>
    <tr>
       <th>ID</th>
@@ -1022,21 +1026,22 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
    </tr>
    <tr>
       <th>Descrição</th>
-      <td>O Sistema deve converter o crachá para o tipo de arquivo PDF, permitindo o usuário o exportar para o meio que preferir.</td>
+      <td>O Sistema deve converter o/os crachá/ás para o tipo de arquivo PNG, permitindo o usuário o/os exportar para o meio que preferir.</td>
    </tr>
    <tr>
       <th>Observações/ Notas Adicionais</th>
-      <td> A exportação por PDF foi feita com sucesso!
+      <td> 
+      Em caso de confirmação da exportação, deverá ser retornado uma String dizendo: "A exportação por PNG foi feita com sucesso!"
       </td>
    </tr>
 </table>
 
-#### [RF-U09] Exportar Crachás para PNG
+#### [RF-U09] Download dos Crachás
 
 <table>
    <tr>
       <th>Nome</th>
-      <td>Exportar Crachás para PNG</td>
+      <td>Download dos Crachás</td>
    </tr>
    <tr>
       <th>ID</th>
@@ -1048,37 +1053,12 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
    </tr>
    <tr>
       <th>Descrição</th>
-      <td>O Sistema deve converter o crachá para o tipo de arquivo PNG, permitindo o usuário o exportar para o meio que preferir.</td>
+      <td>O Sistema deve disponibilizar o/os crachá/ás para download, permitindo o usuário o/os baixar no tipo de arquivo que preferir.</td>
    </tr>
    <tr>
       <th>Observações/ Notas Adicionais</th>
-      <td> A exportação por PNG foi feita com sucesso!
-      </td>
-   </tr>
-</table>
-
-#### [RF-U10] Download dos Crachás
-
-<table>
-   <tr>
-      <th>Nome</th>
-      <td>Download dos Crachás</td>
-   </tr>
-   <tr>
-      <th>ID</th>
-      <td>RF-U10</td>
-   </tr>
-   <tr>
-      <th>Ator Relacionado</th>
-      <td>Sistema</td>
-   </tr>
-   <tr>
-      <th>Descrição</th>
-      <td>O Sistema deve disponibilizar o crachá para download, permitindo o usuário o baixar no tipo de arquivo que preferir.</td>
-   </tr>
-   <tr>
-      <th>Observações/ Notas Adicionais</th>
-      <td> Seu Download foi concluído!
+      <td> 
+      Em caso de confirmação do Download, deverá ser retornado uma String dizendo: "Seu Download foi concluído!"
       </td>
    </tr>
 </table>
