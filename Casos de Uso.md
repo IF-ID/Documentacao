@@ -383,7 +383,14 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
   </tr>
   <tr>
     <th>Requisitos Funcionais</th>
-    <td></td>
+    <td><ul>
+      <li><a href="/Requisitos.md#rf-v08-página-de-criação-de-crachás">[RF-V08] Página de Criação de Crachás</a></li>
+      <li><a href="/Requisitos.md#rf-v09-formulário-para-criação-de-crachás">[RF-V09] Formulário para Criação dos Crachás</a></li>
+      <li><a href="/Requisitos.md#rf-u04-validar-dados-dos-crachás">[RF-U04] Validar Dados dos Crachás</a></li>
+      <li><a href="/Requisitos.md#rf-s03-inserir-crachás">[RF-S03] Inserir Crachás</a></li>
+      <li><a href="/Requisitos.md#rf-c01-mensagens-de-erro">[RF-C01] Mensagens de Erro</a></li>
+      <li><a href="/Requisitos.md#rf-c03-feedback-de-crachá-criado-com-sucesso">[RF-C03] Feedback de Crachá Criado Com Sucesso</a></li>
+    </ul></td>
   </tr>
   <tr>
     <th>Requisitos Não Funcionais</th>
@@ -466,7 +473,14 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
   </tr>
   <tr>
     <th>Requisitos Funcionais</th>
-    <td></td>
+    <td>
+      <ul>
+        <li><a href="/Requisitos.md#rf-m02-verificar-logado">[RF-M02] Verificar Logado</a></li>
+        <li><a href="/Requisitos.md#rf-v10-página-de-visualizar-crachás">[RF-V10] Página de Visualizar Crachás</a></li>
+        <li><a href="/Requisitos.md#rf-s04-pegar-crachás">[RF-S04] Pegar Crachás</a></li>
+        <li><a href="/Requisitos.md#rf-u05-selecionar-crachás">[RF-U05] Selecionar Crachás</a></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <th>Requisitos Não Funcionais</th>
@@ -560,7 +574,18 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
   </tr>
   <tr>
     <th>Requisitos Funcionais</th>
-    <td></td>
+    <td>
+      <ul>
+        <li><a href="/Requisitos.md#rf-v11-página-de-modificar-crachás">[RF-V11] Página de Modificar Crachás</a></li>
+        <li><a href="/Requisitos.md#rf-v12-formulário-para-modificar-crachás">[RF-V12] Formulário para Modificar Crachás</a></li>
+        <li><a href="/Requisitos.md#rf-u06-validar-dados-dos-crachás">[RF-U06] Validar Dados dos Crachás</a></li>
+        <li><a href="/Requisitos.md#rf-s05-atualizar-crachás">[RF-S05] Atualizar Crachás</a></li>
+        <li><a href="/Requisitos.md#rf-c01-mensagens-de-erro">[RF-C01] Mensagens de Erro</a></li>
+        <li><a href="/Requisitos.md#rf-c04-feedback-de-crachá-modificado-com-sucesso">[RF-C04] Feedback de Crachá Modificado Com 
+        Sucesso</a></li>
+        <li><a href="/Requisitos.md#rf-m02-verificar-logado">[RF-M02] Verificar Logado</a></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <th>Requisitos Não Funcionais</th>
@@ -637,7 +662,15 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
   </tr>
   <tr>
     <th>Requisitos Funcionais</th>
-    <td></td>
+    <td>
+      <ul>
+        <li><a href="/Requisitos.md#rf-u07-confirmar-exclusão">[RF-U07] Confirmar Exclusão</a></li>
+        <li><a href="/Requisitos.md#rf-s06-excluir-crachás">[RF-S06] Excluir Crachás</a></li>
+        <li><a href="/Requisitos.md#rf-c01-mensagens-de-erro">[RF-C01] Mensagens de Erro</a></li>
+        <li><a href="/Requisitos.md#rf-c05-feedback-de-exclusão-bem-sucedida">[RF-C05] Feedback de Exclusão Bem-Sucedida</a></li>
+        <li><a href="/Requisitos.md#rf-m02-verificar-logado">[RF-M02] Verificar Logado</a></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <th>Requisitos Não Funcionais</th>
@@ -706,7 +739,17 @@ Os casos de uso são utilizados para especificar as tarefas e os atores envolvid
   </tr>
   <tr>
     <th>Requisitos Funcionais</th>
-    <td></td>
+    <td>
+      <ul>
+        <li><a href="/Requisitos.md#rf-v13-página-de-exportar-crachás">[RF-V13] Página de Exportar Crachás</a></li>
+        <li><a href="/Requisitos.md#rf-v14-formulários-das-especificações-de-exportação">[RF-V14] Formulários das Especificações de Exportação</a></li>
+        <li><a href="/Requisitos.md#rf-u08-exportar-crachás-para-pdf">[RF-U08] Exportar Crachás para PDF</a></li>
+        <li><a href="/Requisitos.md#rf-u09-exportar-crachás-para-png">[RF-U09] Exportar Crachás para PNG</a></li>
+        <li><a href="/Requisitos.md#rf-c06-feedback-de-crachá-exportado-com-sucesso">[RF-C06] Feedback de Crachá Exportado Com Sucesso</a></li>
+        <li><a href="/Requisitos.md#rf-u10-download-dos-crachás-exportados">[RF-U10] Download dos Crachás Exportados</a></li>
+        <li><a href="/Requisitos.md#rf-c01-mensagens-de-erro">[RF-C01] Mensagens de Erro</a></li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <th>Requisitos Não Funcionais</th>
