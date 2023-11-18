@@ -1065,6 +1065,16 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
 
 ## Requisitos Não Funcionais
 
-digitou a senha 3 vezes errado, time out na cara do fdp
-responsividade kkkkkkkk
-interface simples hahahahahahah
+Limite de Tentativas de Senha: Digitar a senha 3 vezes errado, dá ao usuário um time out de 3 minutos 11 segundos e 4 décimos.
+
+Responsividade kkkkkkkk
+
+Interface Simplificada hahahahahahah
+
+Validação de Email : Código de 6 digitos, aleatórios, enviado por email ao usuário, buscando validação de seu endereço digital.
+
+Limite de Tentativas de Validação de Email: O mesmo terá 3 tentativas para tentar validar seu Email, em caso de não validação, Time out de 3 minutos 11 segundos e 4 décimos.
+
+Segurança: Senhas tem de ser Salvas de Forma Criptografada para que o sistema não tenha acesso à senha do usuário, evitando possíveis vazamentos.
+
+Valor dos Produtos: Os produtos implementados pela equipe devem ter valor, ou seja, devem ser testados e aprovados antes de serem colocados em produção.
