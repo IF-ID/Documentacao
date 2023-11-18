@@ -6,7 +6,7 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
 
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Design Pattern](#Design-Pattern)
-- [Desenvolvimento Orientado à Testes (TDD)](#desenvolvimento-orientado-à-testes)
+- [Desenvolvimento Orientado à Testes](#desenvolvimento-orientado-à-testes)
 - [Tecnologias](#tecnologias)
     - [Projeto](#projeto)
         - [Node.js](#nodejs)
