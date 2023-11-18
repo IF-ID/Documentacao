@@ -5,6 +5,8 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
 # Tabela de Conteúdos
 
 - [Estrutura do Projeto](#estrutura-do-projeto)
+- [Design Pattern](#Design-Pattern)
+- [Desenvolvimento Orientado a Testes (TDD)](#Desenvolvimento-Orientado-à-Testes-(TDD))
 - [Tecnologias](#tecnologias)
     - [Projeto](#projeto)
         - [Node.js](#nodejs)
@@ -55,11 +57,19 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
 | /package.json | Arquivo que contém informações sobre o projeto, como o nome e a versão. |
 | /.gitignore | Diretório onde estão os arquivos principais do projeto, como arquivos de configuração, controladores, rotas, etc. |
 
+# Design Pattern
+
+(Explicação Breve Sobre o que é)
+
+# Desenvolvimento Orientado à Testes (TDD)
+
+(Explicação Breve Sobre o que é)
+
 # Tecnologias
 
 Esta seção lista as tecnologias utilizadas no projeto, tanto no desenvolvimento quanto no projeto em si.
 
-## Projeto
+## Projeto (Sob Mudança)
 
 As tecnologias utilizadas no projeto final são:
 * [Node.js](#nodejs) - Interpretador de Javascript para o backend
