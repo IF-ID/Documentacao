@@ -48,6 +48,10 @@ Esta seção descreve os requisitos funcionais e não funcionais definidos a par
       * [[RF-U08] Exportar Crachás para PNG](#rf-u08-exportar-crachás-para-png)
       * [[RF-U09] Download dos Crachás](#rf-u09-download-dos-crachás)
 * Requisitos Não Funcionais
+      * [RNF-]
+      * [RNF-]
+      * [RNF-]
+      * [RNF-]
 
 ## Requisitos Funcionais
 
