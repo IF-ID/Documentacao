@@ -47,9 +47,10 @@ Esta seção descreve os requisitos funcionais e não funcionais definidos a par
       * [[RF-U07] Exportar Crachás para PDF](#rf-u07-exportar-crachás-para-pdf)
       * [[RF-U08] Exportar Crachás para PNG](#rf-u08-exportar-crachás-para-png)
       * [[RF-U09] Download dos Crachás](#rf-u09-download-dos-crachás)
-* Requisitos Não Funcionais
-      * [RNF-]
-      * [RNF-]
+* Requisitos Não Funcionais  
+   * Safety  
+      * [RNF-S01]
+      * [RNF-S02]
       * [RNF-]
       * [RNF-]
 
@@ -1069,16 +1070,126 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
 
 ## Requisitos Não Funcionais
 
-Limite de Tentativas de Senha: Digitar a senha 3 vezes errado, dá ao usuário um time out de 3 minutos 11 segundos e 4 décimos.
+### Safety
+
+#### [RNF-S01] Limite de Tentativas de Senha
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Limite de Tentativas de Senha</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RNF-S01</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Usuário</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O Usuário terá por padrão um máximo de 3 tentativas consecutivas de Login, onde caso o mesmo erre sua senha em um número maior do que o limite estipulado, o sistema acionará sua iniciativa de defesa, dando-lhe um Time-Out curto.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td> 
+      Uma String deverá ser retornada ao usuário informando: "Por questões de segurança você deve esperar o tempo estipulado para poder prosseguir com seu Login."
+      O Tempo de Time-Out é de: 3 minutos, 11 segundos e 4 décimos.
+      </td>
+   </tr>
+</table>
+
+#### [RNF-S02] Validação de Email
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Validação de Email</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RNF-S02</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O sistema exigirá um código de confirmação de 6 digitos ao usuário buscando a validação de seu endereço digital, o código será enviado por Email e ficará disponível para validação por 10 minutos.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td> 
+      </td>
+   </tr>
+</table>
+
+#### [RNF-S03] Limite de Tentativas de Validação de Email
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Limite de Tentativas de Validação de Email</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RNF-S03</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Usuário</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O Usuário terá por padrão um máximo de 3 tentativas consecutivas de validação de seu email, onde caso o mesmo não valide seu endereço eletrônico em um número de tentativas maior do que o limite estipulado, o sistema acionará sua iniciativa de defesa, dando-lhe um Time-Out curto.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td> 
+      Uma String deverá ser retornada ao usuário informando: "Por questões de segurança você deve esperar o tempo estipulado para poder prosseguir com a validação de seu Email."
+      O Tempo de Time-Out é de: 3 minutos, 11 segundos e 4 décimos.
+      </td>
+   </tr>
+</table>
+
+#### [RNF-S04] Segurança de Senhas
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Segurança de Senhas</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RNF-S04</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td>O Sistema deverá armazenar as senhas de usuários de forma criptografada para evitar futuros vazamentos ou invasão à privacidade do Usuário.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td>
+      </td>
+   </tr>
+</table>
+
+### Product Ethics
+
+Valor dos Produtos: Os produtos implementados pela equipe devem ter valor, ou seja, devem ser testados e aprovados antes de serem colocados em produção.
+
+### Accessibility
 
 Responsividade kkkkkkkk
 
 Interface Simplificada hahahahahahah
 
-Validação de Email : Código de 6 digitos, aleatórios, enviado por email ao usuário, buscando validação de seu endereço digital.
 
-Limite de Tentativas de Validação de Email: O mesmo terá 3 tentativas para tentar validar seu Email, em caso de não validação, Time out de 3 minutos 11 segundos e 4 décimos.
 
-Segurança: Senhas tem de ser Salvas de Forma Criptografada para que o sistema não tenha acesso à senha do usuário, evitando possíveis vazamentos.
 
-Valor dos Produtos: Os produtos implementados pela equipe devem ter valor, ou seja, devem ser testados e aprovados antes de serem colocados em produção.
