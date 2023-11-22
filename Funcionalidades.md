@@ -23,7 +23,7 @@ Nesta seção serão definidas as funcionalidades iniciais do sistema a partir d
     - [Pontos de Conflito e Necessidades](#pontos-de-conflito-e-necessidades-3)
     - [Possíveis Funcionalidades e Soluções](#possíveis-funcionalidades-e-soluções-3)
 
-## Funcionalidades
+## [Funcionalidades](#tabela-de-conteúdos)
 
 Nessa seção são definidas as funcionalidades que foram escolhidas após as análises das personas.
 
@@ -38,9 +38,9 @@ As funcionalidades definidas foram:
 - Possibilitar que o usuário exporte os seus crachás de forma individual ou em grupo, para pdf ou em png;
 - Página minimalista para facilitar o processo de criação dos crachás;
 
-## Proto Personas
+## [Proto Personas](#tabela-de-conteúdos)
 
-### João
+### [João](#tabela-de-conteúdos)
 
 ![joão](Proto-Personas/João.jpeg)
 
@@ -66,7 +66,7 @@ As funcionalidades definidas foram:
 - Criar um crachá sem fazer login;
 - Exportar o crachá em PDF no tamanho correto para impressão;
 
-## Maria
+## [Maria](#tabela-de-conteúdos)
 
 ![maria](Proto-Personas/Maria.jpeg)
 
@@ -88,7 +88,7 @@ As funcionalidades definidas foram:
 
 - Possibilidade de fazer o download do crachá como PNG.
 
-### Rodrigo
+### [Rodrigo](#tabela-de-conteúdos)
 
 ![rodrigo](Proto-Personas/Rodrigo.jpeg)
 
@@ -111,7 +111,7 @@ As funcionalidades definidas foram:
 - Possibilidade de criar uma conta na aplicação para acessar os seus crachás de qualquer local.
 - Acesso rápido ao crachá, abrindo-o assim que o usuário entra no aplicativo.
 
-### Elly
+### [Elly](#tabela-de-conteúdos)
 
 ![elly](Proto-Personas/Elly.jpeg)
 
