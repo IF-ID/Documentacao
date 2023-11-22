@@ -65,7 +65,7 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
 
 ### Controllers
 
-#### [[RF-C01] Mensagens de Erro](#tabela-de-conteudos)
+#### [[RF-C01] Mensagens de Erro](#tabela-de-conteúdos)
 
 <table>
    <tr>
