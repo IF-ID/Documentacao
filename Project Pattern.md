@@ -8,7 +8,7 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
 - [Design Pattern](#Design-Pattern)
 - [Desenvolvimento Orientado à Testes (TDD)](#desenvolvimento-orientado-à-testes)
 - [Tecnologias](#tecnologias)
-    - [Projeto](#projeto)
+    - [Tecnologias do Projeto](#tecnologias-do-projeto)
         - [Node.js](#nodejs)
         - [NPM](#npm)
         - [Express](#express)
@@ -30,7 +30,7 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
         - [BR Modelo](#br-modelo)
         - [Figma](#figma)
 
-# Estrutura do Projeto
+# [Estrutura do Projeto](#tabela-de-conteúdos)
 
 ![Diagrama da Estrutura de Diretórios](/Diagramas/Estrutura%20dos%20Diretórios.png "Estrutura de Diretórios")
 
@@ -57,19 +57,19 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
 | /package.json | Arquivo que contém informações sobre o projeto, como o nome e a versão. |
 | /.gitignore | Diretório onde estão os arquivos principais do projeto, como arquivos de configuração, controladores, rotas, etc. |
 
-# Design Pattern
+# [Design Pattern](#tabela-de-conteúdos)
 
 (Explicação Breve Sobre o que é)
 
-# Desenvolvimento Orientado à Testes
+# [Desenvolvimento Orientado à Testes](#tabela-de-conteúdos)
 
 (Explicação Breve Sobre o que é)
 
-# Tecnologias
+# [Tecnologias](#tabela-de-conteúdos)
 
 Esta seção lista as tecnologias utilizadas no projeto, tanto no desenvolvimento quanto no projeto em si.
 
-## Projeto (Sob Mudança)
+## [Tecnologias do Projeto](#tabela-de-conteúdos)
 
 As tecnologias utilizadas no projeto final são:
 * [Node.js](#nodejs) - Interpretador de Javascript para o backend
@@ -83,65 +83,65 @@ As tecnologias utilizadas no projeto final são:
 * [Heroku](#jest) - Plataforma de hospedagem de aplicações web
 * [JawsDB MySQL](#jawsdb-mysql) - Banco de dados MySQL hospedado na nuvem
 
-### Node.js
+### [Node.js](#tabela-de-conteúdos)
 
 Node.js é um ambiente de execução de código aberto, multi-plataforma de Javascript. Roda a partir do motor de execução V8, o mesmo utilizado em navegadores como Google Chrome, possibilitando uma grande performance so código sem comprometer o uso de recursos do sistema.
 
 O amplo suporta de sistemas de hospedagem e sistemas operacionais, o uso da linguagem javascript, que diminui a curva de aprendizado, e o caráter assíncrono orientado a eventos da linguagem a tornam uma ótima opção para o desenvolvimento de aplicações web.
 
-### NPM
+### [NPM](#tabela-de-conteúdos)
 
 Node Package Manager, ou NPM, é o gerenciador de pacotes do Node.js. Ele é responsável por instalar e gerenciar as dependências do projeto, além de permitir a execução de scripts de teste, build, etc.
 
 A sua facilidade de uso e o fato de já vir instalado junto com o Node.js o tornam uma ótima opção para o gerenciamento de pacotes.
 
-### Express
+### [Express](#tabela-de-conteúdos)
 
 Express é um framework de Node.js para criação de aplicações web. Ele é responsável por gerenciar as rotas da aplicação, além de permitir a criação de middlewares para a aplicação.
 
 A sua flexibilidade e facilidade de aprendizado são os principais motivos para a sua escolha.
 
-### Pug
+### [Pug](#tabela-de-conteúdos)
 
 Pug, anteriormente conhecido como Jade, é um motor de template para Node.js. Ele é responsável por renderizar as views da aplicação, convertendo-as para html e enviando-as para o usuário.
 
 Por ser a linguagem padrão utilizada pelo Express e pelo código mais limpo e legível criado com sua linguagem, ele foi escolhido como motor de template.
 
-### Bootstrap
+### [Bootstrap](#tabela-de-conteúdos)
 
 Bootstrap é um framework de CSS para criação de interfaces web. Ele é responsável por criar a interface da aplicação, além de facilitar a criação de interfaces responsivas.
 
 A facilitação na criação de aplicações mobile-friendly, além do aumento na produtividade durante a criação das páginas, foram os principais motivos para a sua escolha.
 
-### Javascript
+### [Javascript](#tabela-de-conteúdos)
 
 Javascript é uma linguagem de programação para web. Ela é responsável por criar a lógica da aplicação, além de permitir a criação de interfaces dinâmicas. Javascript é a linguagem padrão para o desenvolvimento de aplicações web.
 
-### CSS
+### [CSS](#tabela-de-conteúdos)
 
 Cascade Style Sheets, ou CSS, é uma linguagem de estilização para web. Ela é responsável por estilizar a interface da aplicação, além de permitir a criação de interfaces responsivas.
 
 Junta com o Bootstrap, o CSS é responsável por criar a interface da aplicação.
 
-### Jest
+### [Jest](#tabela-de-conteúdos)
 
 Jest é um framework de testes para Javascript. Ele é responsável por executar os testes unitários e de integração na aplicação.
 
 Seu foco na simplicidade e facilidade de aprendizado foram os principais motivos para a sua escolha.
 
-### Heroku
+### [Heroku](#tabela-de-conteúdos)
 
 Heroku é uma plataforma de hospedagem de aplicações web. Ela é responsável por hospedar a aplicação, além de permitir a criação de pipelines de CI/CD.
 
 Sua grande poppularidade e extensa documentação, além do plano de estudante em parceria com o GitHub Students Pack, foram os principais motivos para a sua escolha.
 
-### JawsDB MySQL
+### [JawsDB MySQL](#tabela-de-conteúdos)
 
 JawsDB MySQL é um banco de dados MySQL hospedado na nuvem. É utlilizado como um plugin do Heroku, permitindo a criação de um banco de dados MySQL na nuvem.
 
 A existência de um plano gratuito, além da facilidade de uso, foram os principais motivos para a sua escolha.
 
-## Desenvolvimeto
+## [Desenvolvimeto](#tabela-de-conteúdos)
 
 As tecnologias utilizadas no desenvolvimento do projeto são:
 * [VS Code](#vs-code) - Editor de código
@@ -154,38 +154,38 @@ As tecnologias utilizadas no desenvolvimento do projeto são:
 * [BR Modelo](#br-modelo) - Ferramenta de criação de modelos de dados
 * [Figma](#figma) - Ferramenta de criação de interfaces
 
-### VS Code
+### [VS Code](#tabela-de-conteúdos)
 
 VS Code é um editor de código. Ele é responsável por criar e editar os arquivos do projeto. Seu grande suporte para javascript, além de sua grande bibloteca de extenções, o tornam uma ótima opção para o desenvolvimento de aplicações web.
 
-### GitHub Copilot
+### [GitHub Copilot](#tabela-de-conteúdos)
 
 GitHub Copilot é uma inteligência artificial que auxilia no desenvolvimento de código. Ele é responsável por sugerir trechos de código para o desenvolvedor, além de sugerir nomes para variáveis e funções.
 
-### Git/GitHub
+### [Git/GitHub](#tabela-de-conteúdos)
 
 Git é um sistema de controle de versão. Ele é responsável por gerenciar as versões do projeto, além de permitir o trabalho em equipe.
 
-### MySQL Workspace
+### [MySQL Workspace](#tabela-de-conteúdos)
 
 MySQL Workspace é um ambiente de desenvolvimento de banco de dados. Ele é responsável por criar e editar o banco de dados da aplicação.
 
-### Trello
+### [Trello](#tabela-de-conteúdos)
 
 Trello é um sistema de gerenciamento de projetos. Ele é responsável por organizar as tarefas do projeto, além de permitir a criação de pipelines de desenvolvimento.
 
-### Slack
+### [Slack](#tabela-de-conteúdos)
 
 Slack é um sistema de comunicação. Ele é responsável por permitir a comunicação entre os membros da equipe.
 
-### Draw.io
+### [Draw.io](#tabela-de-conteúdos)
 
 Draw.io é uma ferramenta de criação de diagramas. Ele é responsável por criar os diagramas do projeto.
 
-### BR Modelo
+### [BR Modelo](#tabela-de-conteúdos)
 
 BR Modelo é uma ferramenta de criação de modelos de dados. Ele é responsável por criar os modelos do banco de dados do projeto.
 
-### Figma
+### [Figma](#tabela-de-conteúdos)
 
 Figma é uma ferramenta de criação de interfaces. Ele é responsável por criar as interfaces do projeto.
