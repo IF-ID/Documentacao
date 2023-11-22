@@ -1217,6 +1217,8 @@ Esta seção descreve os requisitos específicos relacionados à como as funcion
 
 ### Accessibility
 
+#### [RNF-A01] Responsividade
+
 <table>
    <tr>
       <th>Nome</th>
@@ -1241,6 +1243,8 @@ Esta seção descreve os requisitos específicos relacionados à como as funcion
       </td>
    </tr>
 </table>
+
+#### [RNF-A02] Interface Simplificada
 
 <table>
    <tr>
