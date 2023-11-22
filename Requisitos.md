@@ -53,6 +53,11 @@ Esta seção descreve os requisitos funcionais e não funcionais definidos a par
       * [[RNF-S02] Validação de Email](#rnf-s02-validação-de-email)
       * [[RNF-S03] Limite de Tentativas de Validação de Email](#rnf-s03-limite-de-tentativas-de-validação-de-email)
       * [[RNF-S04] Segurança de Senhas](#rnf-s04-segurança-de-senhas)
+   * Product Ethics
+      * [[RNF-P01] Valor dos Produtos](#rnf-p01-valor-dos-produtos)
+   * Accessibility
+      * [[RNF-A01] Responsividade](#rnf-a01-responsividade)
+      * [[RNF-A02] Interface Simplificada](#rnf-a02-interface-simplificada)
 
 ## Requisitos Funcionais
 
@@ -1070,6 +1075,8 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
 
 ## Requisitos Não Funcionais
 
+Esta seção descreve os requisitos específicos relacionados à como as funcionalidades do sistema serão entregues ao usuário, podendo variar entre tópicos como: usabilidade, confiabilidade, segurança, acessibilidade, ética do produto e etc.
+
 ### Safety
 
 #### [RNF-S01] Limite de Tentativas de Senha
@@ -1182,13 +1189,84 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
 
 ### Product Ethics
 
-Valor dos Produtos: Os produtos implementados pela equipe devem ter valor, ou seja, devem ser testados e aprovados antes de serem colocados em produção.
+#### [RNF-P01] Valor dos Produtos
+
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Valor dos Produtos</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RNF-P01</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td> As funcionalidades de sistema implementados pela equipe devem ter valor, ou seja, devem ser testadas e aprovadas antes de serem colocadas em produção com o intuito de agregar valor ao produto, ou seja, dar-lhe uma maior credibilidade.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td>
+      </td>
+   </tr>
+</table>
 
 ### Accessibility
 
-Responsividade kkkkkkkk
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Responsividade</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RNF-A01</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td> O Sistema deve apresentar uma interface que consiga se adequar a diferentes tamanhos de telas de diversos dispositivos buscando atender a usuários que utilizem tanto PC quanto o Celular como fontes de acesso.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td>
+        O modelo Mobile First deve ser o conceito utilizado como referência na implementação da responsividade diante da interface visto que, o mesmo além de representar o foco do público do projeto ainda traz uma série de vantagens de desenvolvimento.
+      </td>
+   </tr>
+</table>
 
-Interface Simplificada hahahahahahah
+<table>
+   <tr>
+      <th>Nome</th>
+      <td>Interface Simplificada</td>
+   </tr>
+   <tr>
+      <th>ID</th>
+      <td>RNF-A02</td>
+   </tr>
+   <tr>
+      <th>Ator Relacionado</th>
+      <td>Sistema</td>
+   </tr>
+   <tr>
+      <th>Descrição</th>
+      <td> O Sistema deve apresentar uma interface de fácil uso e acesso, visando a simplicidade em sua utilização, evitando confudir ou tirar o foco do usuário daquilo que o mesmo deveria fazer dentro da aplicação.</td>
+   </tr>
+   <tr>
+      <th>Observações/ Notas Adicionais</th>
+      <td>
+        Os princípios de Design de Donald Norman devem ser levados em consideração na implementação desse requisito.
+      </td>
+   </tr>
+</table>
+
 
 
 
