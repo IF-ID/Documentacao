@@ -19,7 +19,7 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
         - [Jest](#jest)
         - [Heroku](#heroku)
         - [JawsDB MySQL](#jawsdb-mysql)
-    - [Desenvolvimento](#desenvolvimento)
+    - [Desenvolvimento](#Desenvolvimeto)
         - [VS Code](#vs-code)
         - [GitHub Copilot](#github-copilot)
         - [Git/Github](#gitgithub)
