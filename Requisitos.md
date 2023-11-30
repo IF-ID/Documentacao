@@ -678,6 +678,10 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
       <td>O sistema envia um código de confirmação para o e-mail do usuário, o qual deve digitá-lo corretamente para executar o cadastro.</td>
    </tr>
    <tr>
+      <th>Estado</th>
+      <td>Finalizado</td>
+   </tr>
+   <tr>
       <th>Observações/ Notas Adicionais</th>
       <td>O código enviado é um código numérico composto por 6 caracteres. O código expira após 10 minutos</td>
    </tr>
