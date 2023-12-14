@@ -61,11 +61,13 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
 
 Design Patterns, ou padrões de projeto, são abstrações de alto nível que oferecem soluções generalizadas para problemas comuns encontrados no desenvolvimento de software. Eles não consistem em códigos prontos, mas em modelos flexíveis e reutilizáveis que orientam o design e a arquitetura do software.
 
-Como os padrões de projeto já foram previamente utilizados e testados, o ganho de produtividade para os desenvolvedores é uma realidade impreterível. A organização e manutenção do projeto, tornam-se tarefas facilitadas, tal como as discussões técnicas que por terem seus termos padronizados, tornam as conversas sobre o projeto mais agradáveis e fáceis de se entender. Tais razões, foram o que motivaram a escolha do uso de um Design Pattern em nosso projeto. 
+Como os padrões de projeto já foram previamente utilizados e testados, o ganho de produtividade para os desenvolvedores é uma realidade impreterível. A organização e manutenção do projeto, tornam-se tarefas facilitadas, tal como as discussões técnicas que por terem seus termos padronizados, tornam as conversas sobre o projeto mais agradáveis e fáceis de se entender. Tais vantagens, foram o que motivaram a escolha do uso de um Design Pattern no Projeto. 
 
 # [Desenvolvimento Orientado à Testes](#tabela-de-conteúdos)
 
-(Explicação Breve Sobre o que é)
+Test Driven Development (TDD) ou Desenvolvimento Orientado à Testes, refere-se à uma abordagem de desenvolvimento de software que enfatiza a criação de testes automatizados antes da implementação de um código funcional. O processo segue um ciclo de três etapas: escrever um teste, implementar o código mínimo para passar no teste e, em seguida, refatorar o código conforme necessário. 
+
+As vantagens referentes à produtividade do desenvolvedor, maior segurança na correção de bugs e no refatoramento, simplicidade de código e melhor feedback de funcionamento, foram fatores cruciais para a escolha do TDD como método de desenvolvimento.
 
 # [Tecnologias](#tabela-de-conteúdos)
 
