@@ -61,6 +61,8 @@ Este arquivo lista informações sobre a estrutura e tecnologias utilizadas no p
 
 Design Patterns, ou padrões de projeto, são abstrações de alto nível que oferecem soluções generalizadas para problemas comuns encontrados no desenvolvimento de software. Eles não consistem em códigos prontos, mas em modelos flexíveis e reutilizáveis que orientam o design e a arquitetura do software.
 
+Como os padrões de projeto já foram previamente utilizados e testados, o ganho de produtividade para os desenvolvedores é uma realidade impreterível. A organização e manutenção do projeto, tornam-se tarefas facilitadas, tal como as discussões técnicas que por terem seus termos padronizados, tornam as conversas sobre o projeto mais agradáveis e fáceis de se entender. Tais razões, foram o que motivaram a escolha do uso de um Design Pattern em nosso projeto. 
+
 # [Desenvolvimento Orientado à Testes](#tabela-de-conteúdos)
 
 (Explicação Breve Sobre o que é)
