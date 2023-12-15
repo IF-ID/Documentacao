@@ -141,6 +141,8 @@ Heroku é uma plataforma de hospedagem de aplicações web. Ela é responsável 
 
 Sua grande poppularidade e extensa documentação, além do plano de estudante em parceria com o GitHub Students Pack, foram os principais motivos para a sua escolha.
 
+Para saber mais sobre a Hospedagem do Site, [clique aqui](/Hospedagem.md)
+
 ### [JawsDB MySQL](#tabela-de-conteúdos)
 
 JawsDB MySQL é um banco de dados MySQL hospedado na nuvem. É utlilizado como um plugin do Heroku, permitindo a criação de um banco de dados MySQL na nuvem.
