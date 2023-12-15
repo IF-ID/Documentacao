@@ -69,7 +69,7 @@ Test Driven Development (TDD) ou Desenvolvimento Orientado à Testes, refere-se 
 
 As vantagens referentes à produtividade do desenvolvedor, maior segurança na correção de bugs e no refatoramento, simplicidade de código e melhor feedback de funcionamento, foram fatores cruciais para a escolha do TDD como método de desenvolvimento.
 
-Para saber mais sobre TDD, [clique aqui](#Testes.md)
+Para saber mais sobre TDD, [clique aqui](/Testes.md)
 
 # [Tecnologias](#tabela-de-conteúdos)
 
