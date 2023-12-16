@@ -6,7 +6,7 @@ Os testes são utilizados para trazer um aumento na simplicidade, segurança e p
 
 - [Testes de Aceitação](#testes-de-aceitação)
   - [Heurísticas de Nielsen](#heurísticas-de-nielsen)
-  - [[hn-01] Visibilidade do Status do Sistema](#uc-01-)
+  - [[HN-01] Visibilidade do Status do Sistema](#hn-01-visibilidade-do-status-do-sistema)
   - []()
 - [Test Driven Development (TDD)](#test-driven-development-ttd)
   - [Testes Unitários](#testes-unitários)
