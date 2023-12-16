@@ -17,7 +17,9 @@ Os testes são utilizados para trazer um aumento na simplicidade, segurança e p
 
 As heurísticas de Nielsen são um conjunto de 10 princípios de usabilidade estabelecidos por Jakob Nielsen, um renomado especialista em usabilidade. Essas heurísticas fornecem diretrizes práticas para avaliar a interface do usuário de sistemas interativos. São uma forma de avaliar o design de interface, identificando falhas e erros para corrigi-los e otimizar a UX, ou experiência do usuário.
 
-O motivo de sua escolha como ponto pricipal dos testes de aceitação deriva de sua facilidade de aplicação e identificação de problemas, foco nas necessidades do usuário, 
+O motivo de sua escolha como ponto pricipal dos testes de aceitação deriva de sua facilidade de aplicação e identificação de problemas, foco nas necessidades do usuário e aplicabilidade universal. A seguir, as heurísticas de nielsen que a IFID obedece:
+
+
 
 # Test Driven Development (TDD)
 
