@@ -12,6 +12,7 @@ No caso do IFID, o serviço escolhido para a realização da hospedagem de site 
 - [Heroku](#heroku)
   - [Heroku em Node.js](#heroku-em-nodejs)
   - [Heroku em Ruby](#heroku-em-ruby)
+  - [Heroky em Java](heroku-em-java)
   - [Heroku em PHP](#heroku-em-php)
   - [Heroku em Python](#heroku-em-python)
   - [Heroku em Go](#heroku-em-go)
@@ -34,30 +35,42 @@ https://www.heroku.com/nodejs
 
 ### [Heroku em Ruby](#tabela-de-conteúdos)
 
+Para hospedar o site utilizando Ruby acesse o link a seguir:
 
+https://www.heroku.com/ruby
+
+### [Heroku em Java](#tabela-de-conteúdos)
+
+Para hospedar o site utilizando Java acesse o link a seguir:
+
+https://www.heroku.com/java
 
 ### [Heroku em PHP](#tabela-de-conteúdos)
 
+Para hospedar o site utilizando PHP acesse o link a seguir:
 
+https://www.heroku.com/php
 
 ### [Heroku em Python](#tabela-de-conteúdos)
 
+Para hospedar o site utilizando Python acesse o link a seguir:
 
+https://www.heroku.com/python
 
 ### [Heroku em Go](#tabela-de-conteúdos)
 
+Para hospedar o site utilizando Go acesse o link a seguir:
 
+https://www.heroku.com/go
 
 ### [Heroku em Scala](#tabela-de-conteúdos)
 
+Para hospedar o site utilizando Scala acesse o link a seguir:
 
+https://www.heroku.com/java?lang=scala
 
 ### [Heroku em Clojure](#tabela-de-conteúdos)
 
+Para hospedar o site utilizando Clojure acesse o link a seguir:
 
-
-
-
-
-
-
+https://www.heroku.com/java?lang=clojure
