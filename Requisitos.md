@@ -509,7 +509,6 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
             <li>Matrícula</li>
             <li>Tipo</li>
             <li>Curso</li>
-            <li>Foto (Opcional)</li>
          </ul>
       </td>
    </tr>
@@ -594,7 +593,6 @@ Esta seção descreve os requisitos específicos relacionados às funcionalidade
             <li>Matrícula</li>
             <li>Tipo</li>
             <li>Curso</li>
-            <li>Foto (Opcional)</li>
          </ul>
       </td>
    </tr>
