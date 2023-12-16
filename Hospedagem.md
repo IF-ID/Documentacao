@@ -39,11 +39,15 @@ https://www.heroku.com/nodejs
 
 ### [Heroku em Ruby](#tabela-de-conteúdos)
 
+![Ruby Icon](https://lh3.googleusercontent.com/fife/AGXqzDmvMbRC3xNcPoWbJCEE3Q7BB7-PbaCTfFAqhfTlAtla2vbtoyol7gIMcT-X1A0jcvnbN1dxyJeeiOS_yMdUyHVFxoT7xyDfp3DQ3CHAIY7Plgo8ZGSzREmyz8j80U6mE-agJ6wPo0ekULLOt6xz7QoJmgxP7QfS4Qd0QWlGuLpjhdS4lk5KncFho4PgZIZG7EL_HfFFm9gLdI65PF93VK2KthyfqeNh6wev9wzzh4llbtjSPZ7XkjUekK7G_NddyNpdgpOAfevGP6wqkwPcj3DS-dRSWm3k7VQus2bTDjjpHSdnIPAUMqXb7gazvNIvwGDpBRf4cbf67iP5HClzDuK1Q8_9WWn3SkK5aAjDqZIbx0vpyjsejab0IJfEiYsfsQSmtN227iiMXkRaBAaQEpEq8djO1jcQrNOa7kxIMchJ7IosQgyMERWQRAd-pBmCShPTe3golrW79GvJWz-PrxDwdB-PgfeIwV5kJkdZX9OdRZZexq-rUsvG3c5cWUlmkNO-aWi2BS7JESQcyD2SDTrZ5V-T-c6BpmmfwQt1vhCPvET77hyDScVW8VXXGvMkMjklkoJZYNAzZUnk8s50unQvdCP8PgKLtbDnv1TYQ51B7TPm__bR4sWRC28YGyl_7tc0lxgy3sGE8UlVwlklnY_Nw0g5m5I88aMV1TQ_-Ge7Ib4jqnU0fSsG60OvLxo5CpJ2iU2cOoDi7HJRAtYDKLGclH9DxZ_J4vy0Xgj6Tx6On-rZyaC6ElfbGnZK74LuAgClG5sDMgaIEFEkGbVSzR9iL33R3SZnu15KsrLf5iM85tzV76tSxU6dRHiWzsT1owVwzbwUrYUzo_hvvSWkpPF6cos9sgXlBhQOe7ogsIIRcSI5LQ0ae5_4JyIh5Rfo5KivZhCgC_2--eMMzm1PFN9vpXJ1EDnlWebJgdmyYXuAy8nNGRoUEQQs0vbxeQQKxDRu1fKZbCarIMB0_kTWEwy_qDoj2Sp0MhoLLfymspfG2TcBKhsKO4w-_8CZzVcv9g6a4CSDVr1q_xnh_pwOHCowCDrgIc4K_5d2GyNrxGiQyP_KwADUKoXfDEJ2iJy0OFTxs5fDmnW8znb6wzuU6pHPDlYnjynVGwYbVxMJwGVumrNRdVhwDLy7e2tEiFZHht4OzgsHz7VX_y2_YvALnpY-65fsRq9x1lKEPryg8QSDWn8tO9XfiVff-PTeOQw2IpJnoj8B1uRAHjzkutQo0rXkM3ADzc-5q99_IT2h8agEX0Mvc-oIBCalKCIWci7xoQe2x8rfBHWZrJHmKp3zgxBllry460WpljwG0O3EBPB8ON7-c6BMHgWj49Rbq8bHvgcVlv6enPElP9FQ_rXkQ8Bgm10GcJeZ6ywiUgqlj4nYYdoNecKLHYpXBNtiPlr7YS65aJrmOo1il1tKx6IrYyppQOk93DUj8rnviYFJ_dCpklDEFQhpvEkXOfYjnOM2DDBk-IAwnh4jTx9ZIepDZpEsghDWzaKtEKt0RZGo0q-znNCpNgXNJHkJydOlvfIm=w1919-h952)
+
 Para hospedar o site utilizando Ruby acesse o link a seguir:
 
 https://www.heroku.com/ruby
 
 ### [Heroku em Java](#tabela-de-conteúdos)
+
+![Java Icon](https://lh3.googleusercontent.com/fife/AGXqzDl9mnuMOniZgpqDpXV3IV53oJS1kqRD7eswESyWiJLdzH9JdAi5C5VQg-093IB8yXDhSSDkUBOx0idScGOlQP6I3-6mJaVpPU6AGsavrXB5kT-NXnuNdUlV65f1lVmc1VH2TpdI_5XL_e39fsTM3w7yT3DPJOHE3M0HnhItsLKQKEil5BKiXM9S8ofIiOLMzaAI4jUGV2jF9u46CLgyofnJmPpkXBqsPgTWXX9VF-8QNEFabRSwC2C5_2HGJzszpf97_RGXxYoqGu0EhmTurlmjdC9q5GZ42457e2D0D3C_yHSo7A-bsLrGwL86PNcyX5PwWjNACw4YAkrdbl6tI5ZeqRfXDmnjZ_uk_FYQQmx1VDxcBqIw2llbIY2UEzRdjF4R3thLEMVp-1_RdJJCM8XvFpM0zzyWcO1bKlDyD3rsR02bK2l5busVRr-pg-Z__lJCaJc0Hpao4prwklHsnYcmHLcg0oPbq7TP9B-3LyNvCPT-1XShfJHM_N6euYAxfsSGKwrGH8xJpDriKCpGb4cwKZZKHnAA7nS_eUjAtP0cj4xAzvL5Uk640kO8ducOrO-96YG0-xjfORp6FCy0wWD7cKAKyAzZktY537Q4BIabfHUDykouR16W1snknieiwWJUELSj_TkuLV-TqRL2JcLn7tJAA2Vf_8VyoBBUrdqF0RIlXrs7ikLfDYt_d4J9PyAWbY0YIErSx8qyCDsqnueKpn9dvPNl-CtHIFEX8V-6ZGQvpofjKiXbG-htiObyzYIJTgTLCXuRPMXl1TfaiEM2RHC_avyZ2sTjaRNF8T3tiULlnZNUqETwS4cgW4_0oTVDX-wvEUwYvFJ1v7bxD165cxvRuCBAuubk6tWbuykfvimrRlB3w6xb2yp_ij_FJihi8pzNZfztX5SFAShlmCaj9d56cfAVgN5-vbX2YfKouX8GccoPnKUFk_slhEAzRBK861KFQwNGTWfoPdX2FRqPm-hAjqFiwLs9aKKf1Yb0sOAWyN-5VafAKRnckdlO8sfuYbPuGrVNFNFpFzZW_FJgJ2aaybFM0VCta4Dn_00rdniBarKHjlnn-gmrSLDCvSgXpLafS49BsRwpY8mOtaxCqpOuIHuq_fEYggqw0tua3rYpY7Alvn6QoFkeTRWQy3eKd4gmP8jEE5dmtsfHEv73nNt_RKstDAxh17PtHZ9Y-SnfrBufLrpgQelRccox0YbSVL7IW1xOG9KyEJMYWoTsAvislGjpJfJxszrAJewpt-EkS5fW178fwbE_B9i0mZjqt8q0BIfIgYp2sdrunsK3EOJPOYPh6yAuFjio_b8UCjshta6l2_ec7Mc6bT402-rS-4W8Sbn2H9mJTms1YKbDc1pmWFN0tX3qJ4jXwkeUGkbYZkIZGDqmKjcTwgJJcVAq7BlNr8gmt2UWEn04lm2_Riv0WmQegHgtC6SvNCbvBnipduo7hdVLhuAYq8qcH2klWxSIDNKLHaVhFzamUGfliqMzDWmX4ffiXOmv3ycsUIbKGgzQVlf1qeuW7CWa=w2000-h1190)
 
 Para hospedar o site utilizando Java acesse o link a seguir:
 
@@ -51,11 +55,15 @@ https://www.heroku.com/java
 
 ### [Heroku em PHP](#tabela-de-conteúdos)
 
+![PHP Icon]()
+
 Para hospedar o site utilizando PHP acesse o link a seguir:
 
 https://www.heroku.com/php
 
 ### [Heroku em Python](#tabela-de-conteúdos)
+
+![Python Icon]()
 
 Para hospedar o site utilizando Python acesse o link a seguir:
 
@@ -63,17 +71,23 @@ https://www.heroku.com/python
 
 ### [Heroku em Go](#tabela-de-conteúdos)
 
+![Go Icon]()
+
 Para hospedar o site utilizando Go acesse o link a seguir:
 
 https://www.heroku.com/go
 
 ### [Heroku em Scala](#tabela-de-conteúdos)
 
+![Scala Icon]()
+
 Para hospedar o site utilizando Scala acesse o link a seguir:
 
 https://www.heroku.com/java?lang=scala
 
 ### [Heroku em Clojure](#tabela-de-conteúdos)
+
+![Clojure Icon]()
 
 Para hospedar o site utilizando Clojure acesse o link a seguir:
 
