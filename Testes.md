@@ -30,6 +30,8 @@ O motivo de sua escolha como ponto pricipal dos testes de aceitação deriva de 
 
 ### [[HN-03] Consistência e Padronização](#tabela-de-conteúdos)
 
+### [[HN-04] Prevenção de erros](#tabela-de-conteúdos)
+
 ### [[HN-05] Reconhecimento em vez de memorização](#tabela-de-conteúdos)
 
 ### [[HN-06] Reconhecimento em vez de memorização](#tabela-de-conteúdos)
