@@ -34,8 +34,6 @@ O motivo de sua escolha como ponto pricipal dos testes de aceitação deriva de 
 
 ### [[HN-05] Reconhecimento em vez de memorização](#tabela-de-conteúdos)
 
-### [[HN-06] Reconhecimento em vez de memorização](#tabela-de-conteúdos)
-
 ### [[HN-06] Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros](#tabela-de-conteúdos)
 
 # [Test Driven Development (TDD)](#tabela-de-conteúdos)
