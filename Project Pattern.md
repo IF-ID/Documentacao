@@ -139,7 +139,7 @@ Seu foco na simplicidade e facilidade de aprendizado foram os principais motivos
 
 Heroku é uma plataforma de hospedagem de aplicações web. Ela é responsável por hospedar a aplicação, além de permitir a criação de pipelines de CI/CD.
 
-Sua grande poppularidade e extensa documentação, além do plano de estudante em parceria com o GitHub Students Pack, foram os principais motivos para a sua escolha.
+Sua grande popularidade e extensa documentação, além do plano de estudante em parceria com o GitHub Students Pack, foram os principais motivos para a sua escolha.
 
 Para saber mais sobre a Hospedagem do Site, [clique aqui](/Hospedagem.md)
 
