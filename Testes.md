@@ -13,7 +13,7 @@ Os testes são utilizados para trazer um aumento na simplicidade, segurança e p
   - [[HN-05](Reconhecimento em vez de memorização)](#hn-05-reconhecimento-em-vez-de-memorização)
   - [[HN-06](Reconhecimento em vez de memorização)](#hn-05-reconhecimento-em-vez-de-memorização)
   - [[HN-06]Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros](#Ajude-os-usuários-a-reconhecerem,-diagnosticarem-e-recuperarem-se-de-erros)
-- [Test Driven Development (TDD)](#test-driven-development-ttd)
+- [Test Driven Development (TDD)](#test-driven-development-tdd)
   - [Testes Unitários](#testes-unitários)
   - [Testes de Integração](testes-de-integração)
   - [Testes de Sistema](testes-de-sistema)
