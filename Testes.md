@@ -14,7 +14,7 @@ Os testes são utilizados para trazer um aumento na simplicidade, segurança e p
   - [[HN-06] Eficiência e flexibilidade de uso](#hn-06-eficiência-e-flexibilidade-de-uso)
   - [[HN-07] Estética e design minimalista](#hn-07-estética-e-design-minimalista)
   - [[HN-08]Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros](#hn-08-ajude-os-usuários-a-reconhecerem,-diagnosticarem-e-recuperarem-se-de-erros)
-  - 
+    
 - [Test Driven Development (TDD)](#test-driven-development-tdd)
   - [Testes Unitários](#testes-unitários)
   - [Testes de Integração](#testes-de-integração)
@@ -40,7 +40,7 @@ O motivo de sua escolha como ponto pricipal dos testes de aceitação deriva de 
 
 ### [[HN-07] Estética e design minimalista](#tabela-de-conteúdos)
 
-### [[HN-08]Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros](#tabela-de-conteúdos)
+### [[HN-08] Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros](#tabela-de-conteúdos)
 
 # [Test Driven Development (TDD)](#tabela-de-conteúdos)
 
