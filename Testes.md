@@ -6,19 +6,20 @@ Os testes são utilizados para trazer um aumento na simplicidade, segurança e p
 
 - [Testes de Aceitação](#testes-de-aceitação)
   - [Heurísticas de Nielsen](#heurísticas-de-nielsen)
-  - [[HN-01] Visibilidade do Status do Sistema](#hn-01-visibilidade-do-status-do-sistema)
-  - [[HN-02] Compatibilidade entre o sistema e o mundo real](#hn-02-compatibilidade-entre-o-sistema-e-o-mundo-real)
-  - [[HN-03] Consistência e Padronização](#hn-03-consistência-e-padronização)
-  - [[HN-04] Prevenção de erros](#hn-04-prevenção-de-erros)
-  - [[HN-05] Reconhecimento em vez de memorização](#hn-05-reconhecimento-em-vez-de-memorização)
-  - [[HN-06] Eficiência e flexibilidade de uso](#hn-06-eficiência-e-flexibilidade-de-uso)
-  - [[HN-07] Estética e design minimalista](#hn-07-estética-e-design-minimalista)
-  - [[HN-08] Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros](#hn-08-ajude-os-usuários-a-reconhecerem-diagnosticarem-e-recuperarem-se-de-erros)
-    
+    - [[HN-01] Visibilidade do Status do Sistema](#hn-01-visibilidade-do-status-do-sistema)
+    - [[HN-02] Compatibilidade entre o sistema e o mundo real](#hn-02-compatibilidade-entre-o-sistema-e-o-mundo-real)
+    - [[HN-03] Consistência e Padronização](#hn-03-consistência-e-padronização)
+    - [[HN-04] Prevenção de erros](#hn-04-prevenção-de-erros)
+    - [[HN-05] Reconhecimento em vez de memorização](#hn-05-reconhecimento-em-vez-de-memorização)
+    - [[HN-06] Eficiência e flexibilidade de uso](#hn-06-eficiência-e-flexibilidade-de-uso)
+    - [[HN-07] Estética e design minimalista](#hn-07-estética-e-design-minimalista)
+    - [[HN-08] Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros](#hn-08-ajude-os-usuários-a-reconhecerem-diagnosticarem-e-recuperarem-se-de-erros)
 - [Test Driven Development (TDD)](#test-driven-development-tdd)
   - [Testes Unitários](#testes-unitários)
   - [Testes de Integração](#testes-de-integração)
   - [Testes de Sistema](#testes-de-sistema)
+
+# Testes de Aceitação
 
 # [Heurísticas de Nielsen](#tabela-de-conteúdos)
 
@@ -47,6 +48,7 @@ O motivo de sua escolha como ponto pricipal dos testes de aceitação deriva de 
 Test Driven Development (TDD) ou Desenvolvimento Orientado à Testes, refere-se à uma abordagem de desenvolvimento de software que enfatiza a criação de testes automatizados antes da implementação de um código funcional. O processo segue um ciclo de três etapas: escrever um teste, implementar o código mínimo para passar no teste e, em seguida, refatorar o código conforme necessário.
 
 As vantagens referentes à produtividade do desenvolvedor, maior segurança na correção de bugs e no refatoramento, simplicidade de código e melhor feedback de funcionamento, foram fatores cruciais para a escolha do TDD como método de desenvolvimento. No desenvolvimento do IFID, utilizamos 3 diferentes tipos de testes para confirmar o valor do produto, a seguir: os tipos de testes utilizados no desenvolvimento do projeto.
+
 ### [Testes Unitários](#tabela-de-conteúdos)
 
 ### [Testes de Integração](#tabela-de-conteúdos)
