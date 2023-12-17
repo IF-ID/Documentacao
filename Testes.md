@@ -36,6 +36,10 @@ O motivo de sua escolha como ponto pricipal dos testes de aceitação deriva de 
 
 ### [[HN-01] Visibilidade do Status do Sistema](#tabela-de-conteúdos)
 
+Como diz o nome, a primeira Heurística de Nielsen se baseia em manter o usuário ciente sobre as ações exercidas por si dentro do sistema. Isso ocorre por meio de muitas maneiras, desde uma mensagem pequena de feedback, até uma barra de progresso que demonstra aonde a ação do usuário o levou. 
+
+Dentro do IFID, mensagens de feedback de criação, alteração e exclusão de crachá são um exemplo da primeira heurística, reduzindo a incerteza do usuário quanto a suas ações e reforçando aos mesmos o estado do sistema.
+
 ### [[HN-02] Compatibilidade entre o sistema e o mundo real](#tabela-de-conteúdos)
 
 ### [[HN-03] Consistência e Padronização](#tabela-de-conteúdos)
