@@ -78,13 +78,25 @@ Dentro do IFID, a disposição de elementos e informações segue a mesma lógic
 
 Essa heurística destaca a importância de projetar interfaces que sejam eficientes para usuários novatos e, ao mesmo tempo, permitam um uso flexível e eficiente para usuários experientes. Um exemplo seriam os atalhos de teclado como "control-x" que para um usuário novato podem ser desconhecidas, mas com o tempo os mesmos passam a utilizá-la com maior afinco.
 
-Dentro do IFID, a interface centrada em apenas uma página representa grande parte da flexibilidade de uso, pois por sua simplicidade acaba sendo 
+Dentro do IFID, a interface centrada em apenas uma página representa grande parte da flexibilidade de uso, pois por sua simplicidade acaba sendo agradável tanto para usuários novos, quanto para mais experientes. garantindo que a interface atenda às necessidades de usuários com diferentes níveis de habilidade, promovendo a produtividade.
 
 ![Imagem da home]()
 
 ### [[HN-07] Estética e design minimalista](#tabela-de-conteúdos)
 
+O design minimalista refere-se à abordagem de simplificar a apresentação visual e interativa, concentrando-se no essencial e removendo elementos desnecessários. Pode ser representada com a interface do google, pois apenas possuí o necessário para o seu funcionamento.
+
+Dentro do IFID, a simplicidade da interface e o espaçamento promovendo o "branco" dos espaços do site corroboram como exemplos para essa heurística, proporcionando uma experiência mais focada, fácil de entender e agradável visualmente.
+
+![Imagem da home focando em espaços brancos]()
+
 ### [[HN-08] Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros](#tabela-de-conteúdos)
+
+Esta heurística destaca a importância de projetar interfaces que forneçam feedback claro e eficaz sobre erros, ajudando os usuários a entenderem o que deu errado e orientando-os na recuperação. Mensagens como "o email digitado não é válido", "as senhas não são iguais", "as senhas digitadas devem ter pelo menos 8 carcateres com números, letras e caracteres especiais em sua composição" compõe a heurística referida.
+
+Dentro do IFID, durante a realização do cadastro ou login, as mensagens de confirmação de senha e/ou email são um exemplo de funcionamento dessa heurística, reduzindo a frustração e promovendo a eficácia na interação com o sistema.
+
+![Imagem da mensagem no cadastro]()
 
 # [Test Driven Development (TDD)](#tabela-de-conteúdos)
 
