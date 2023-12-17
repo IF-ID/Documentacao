@@ -44,6 +44,9 @@ O motivo de sua escolha como ponto pricipal dos testes de aceitação deriva de 
 
 # [Test Driven Development (TDD)](#tabela-de-conteúdos)
 
+Test Driven Development (TDD) ou Desenvolvimento Orientado à Testes, refere-se à uma abordagem de desenvolvimento de software que enfatiza a criação de testes automatizados antes da implementação de um código funcional. O processo segue um ciclo de três etapas: escrever um teste, implementar o código mínimo para passar no teste e, em seguida, refatorar o código conforme necessário.
+
+As vantagens referentes à produtividade do desenvolvedor, maior segurança na correção de bugs e no refatoramento, simplicidade de código e melhor feedback de funcionamento, foram fatores cruciais para a escolha do TDD como método de desenvolvimento. No desenvolvimento do IFID, utilizamos 3 diferentes tipos de testes para confirmar o valor do produto, a seguir: os tipos de testes utilizados no desenvolvimento do projeto.
 ### [Testes Unitários](#tabela-de-conteúdos)
 
 ### [Testes de Integração](#tabela-de-conteúdos)
