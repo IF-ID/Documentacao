@@ -19,7 +19,11 @@ Os testes são utilizados para trazer um aumento na simplicidade, segurança e p
   - [Testes de Integração](#testes-de-integração)
   - [Testes de Sistema](#testes-de-sistema)
 
-# Testes de Aceitação
+# [Testes de Aceitação](#tabela-de-conteúdos)
+
+Os testes de aceitação são uma prática comum no desenvolvimento de software que são responsáveis por verificarem se um sistema atende aos requisitos que foram definidos previamente. Sua funcionalidade concentra-se na validação da interface do usuário (UI) e, muitas vezes, envolve a execução de casos de teste que simulam as interações reais do usuário com o sistema.
+
+No caso do IFID, por conta do curto período de tempo, a abordagem escolhida para a realização dos testes de aceitação foi: a prototipação e codificação baseando os resultados da experiência de uso de acordo com as Heurísticas de Nielsen.
 
 # [Heurísticas de Nielsen](#tabela-de-conteúdos)
 
