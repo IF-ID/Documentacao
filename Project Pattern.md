@@ -93,7 +93,7 @@ As tecnologias utilizadas no projeto final são:
 
 Node.js é um ambiente de execução de código aberto, multi-plataforma de Javascript. Roda a partir do motor de execução V8, o mesmo utilizado em navegadores como Google Chrome, possibilitando uma grande performance so código sem comprometer o uso de recursos do sistema.
 
-O amplo suporta de sistemas de hospedagem e sistemas operacionais, o uso da linguagem javascript, que diminui a curva de aprendizado, e o caráter assíncrono orientado a eventos da linguagem a tornam uma ótima opção para o desenvolvimento de aplicações web.
+O amplo suporte de sistemas de hospedagem e sistemas operacionais, o uso da linguagem javascript, que diminui a curva de aprendizado, e o caráter assíncrono orientado a eventos da linguagem a tornam uma ótima opção para o desenvolvimento de aplicações web, fatores que pesaram no momento de nossa escolha.
 
 ### [NPM](#tabela-de-conteúdos)
 
