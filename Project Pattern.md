@@ -190,7 +190,7 @@ Slack é um sistema de comunicação. Ele é responsável por permitir a comunic
 
 Draw.io é uma ferramenta de criação de diagramas. Ele é responsável por criar os diagramas e o Wireframe do projeto.
 
-Para saber mais sobre a Prototipação do projeto, [clique aqui](/prototipação.md)
+Para saber mais sobre a Prototipação do projeto, [clique aqui](/Prototipação.md)
 
 ### [BR Modelo](#tabela-de-conteúdos)
 
@@ -200,4 +200,4 @@ BR Modelo é uma ferramenta de criação de modelos de dados. Ele é responsáve
 
 Figma é uma ferramenta de criação de interfaces. Ele é responsável por criar as interfaces do projeto.
 
-Para saber mais sobre a Prototipação do projeto, [clique aqui](/prototipação.md)
+Para saber mais sobre a Prototipação do projeto, [clique aqui](/Prototipação.md)
