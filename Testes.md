@@ -25,6 +25,9 @@ Os testes de aceitação são uma prática comum no desenvolvimento de software 
 
 No caso do IFID, por conta do curto período de tempo, a abordagem escolhida para a realização dos testes de aceitação foi: a prototipação e codificação baseando os resultados da experiência de uso de acordo com as Heurísticas de Nielsen.
 
+As vantagens da utilização de testes de aceitação são diversas, tais como: aprimorar a validação de requisitos do projeto, identificação de problemas de usabilidade, contribuição para a garantia de qualidade e entre diversos outros.
+
+
 # [Heurísticas de Nielsen](#tabela-de-conteúdos)
 
 As heurísticas de Nielsen são um conjunto de 10 princípios de usabilidade estabelecidos por Jakob Nielsen, um renomado especialista em usabilidade. Essas heurísticas fornecem diretrizes práticas para avaliar a interface do usuário de sistemas interativos. São uma forma de avaliar o design de interface, identificando falhas e erros para corrigi-los e otimizar a UX, ou experiência do usuário.
@@ -54,6 +57,10 @@ Test Driven Development (TDD) ou Desenvolvimento Orientado à Testes, refere-se 
 As vantagens referentes à produtividade do desenvolvedor, maior segurança na correção de bugs e no refatoramento, simplicidade de código e melhor feedback de funcionamento, foram fatores cruciais para a escolha do TDD como método de desenvolvimento. No desenvolvimento do IFID, utilizamos 3 diferentes tipos de testes para confirmar o valor do produto, a seguir: os tipos de testes utilizados no desenvolvimento do projeto.
 
 ### [Testes Unitários](#tabela-de-conteúdos)
+
+Testes unitários são uma prática de teste de software em que unidades individuais de código, como funções, métodos ou classes, são testadas isoladamente para garantir que funcionem conforme o esperado. O objetivo dos testes unitários é validar que cada parte do código (unidade) opera corretamente, proporcionando confiança de que as unidades, quando combinadas, funcionarão corretamente como um todo.
+
+A razão da utilização de testes unitários durante o desenvolvimento do projeto foram diversas, mas entre elas destacam-se: a facilidade de refatoração e identificação de defeitos, melhoria da qualidade do código e maior organização de código.
 
 ### [Testes de Integração](#tabela-de-conteúdos)
 
