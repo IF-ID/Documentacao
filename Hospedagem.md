@@ -20,13 +20,17 @@ Heroku é uma plataforma em nuvem (PaaS - Platform as a Service) que permite aos
 
 Utilizar o Heroku traz benefícios como: facilidade de implantação do site/app, versatilidade e escalabilidade dinâmica, mas no IFID, os principais motivos para a sua escolha foram: a sua grande popularidade e extensa documentação, além do plano de estudante em parceria com o GitHub Students Pack.
 
-Devido a sua versatilidade, o Heroku possui uma grande variedade de linguagens ao qual pode ser aplicável, mas no caso do IFID, a linguagem escolhida para hospedagem fora o Node.js.
+Devido a sua versatilidade, o Heroku possui uma grande variedade de linguagens ao qual pode ser aplicável, mas no caso do IFID, a linguagem escolhida para hospedagem fora a Node.js.
 
 ### [Heroku em Node.js](#tabela-de-conteúdos)
 
 ![Node.js Icon](https://lh3.googleusercontent.com/fife/AGXqzDkwrqPWo0UVu-5b4M8VasqWlbkU1NMoG4szZAbLbPPX-53jCBpsrl_XX9GsHyjsXnj1-GAJeDYZkak67BWfv_brbRdu9-0NAMVbpCIrCSXebtuUUe-ZMqfZK9KwH71ETAEKo_EiCVrO7XUUKNUGKwraFIkPxLg7cdLw4Le2V7W0benKJKutY4ZiIKywIWbq860GJ8Bma6199hMafsawUyxKTNfI0VD_59A5b9ldIU1Pmvi0dZMZSKHhsQmVJlUiYWrzXR1Z13fodqI3rzy_48BToGxNcBw94yHRuuuWPpg5jim3bnU6ZJzVaze0p7v9-bKP6cyi76zKgu9VNbK-0lFmPKlGvvdakXHNjhqVAzywfNU9Xn5xmtHeta7qkdtUvxS3v4Y6oG3JnQtjszP9K6mA0_NWN6-cbebnBXFzphaTNAei5RnNJ5bU_4Gma71kl7Il_KI56Y5UReXkD6_ZmCdUzxOST_HbTnso20SzdIH-2071L5Uku-BWFBKdsajMsi5mn_9mNbtc_zZ50XFlBtyCvGqGL0QocR6rWJj8Oel_xVDyUpx1L2gEVtFMF4U2lCRJ0GQzjJ61WHCoolGhhFCOfT2ZUHJTq0B8jLZpI8o6PCdNosG7og_dSdOEBsnpKfsuYD1LfMiGoka2iCH5HHXrLV2y5enrAbzAm5FEouCS2r2H7KemIlf4LDS3Hi6ylTd8tVfw4P38l8JhP54lzFdTCMGSznHrC0PIu677lymJ4Zb5rraDs6Lbib7FzWFR5-BNYGgO3ol-9dMqOEWxjly-ksf1wW87CXor3ffSgO0bKRssuOzsvpoffPoB0E9iHB9PWwKFk_G90si61NXBm6SG0ScJW6guO9E2iKxAoVfGN1K0lo_z4dfDKcQVRvBpHJVZMA4zuENEuO5xvMi8lguZuvG-KZlL7BXiPmji4gCbKMDo_9iSSDFJiHCS5uHMilGMUIlDw9kn0S0ttLrAYHhTWqx5hiZRkb3-veKIsOkD7ANiqwCwkQatfY-1ikD5oI2h01PAITrlLryma8JfaEHJJZf1ecadpLWj_3Ml0wLcAMkvUsoJxB4uEb2dJMnjz0QDanxfF-07n1XMEoVepp4jQ74Unxuv9RnrC-KAHIA-_rkQ7iymrJWUC8d8SjLBkpAD_0nCTUKkjbRRBOhsWfij11DDkHZ4KSStjlmSSo9fUhafaqc4UgH_2WaFCgIhV8eXXIWqq-dY3s2LjlIFep1upDdMcF-aRHIlBkcLEpdlrfG43aDLInWOXp8PsDbKXoyMAeHCXE8PHPjoHg5cspmO190wDIvKckgzg51gvrGGD2w0FvEWGiwZ6fcq6HEtbB4XuMaDEQIcAR3T73_57bXQixZK1hlsnTvHkXoHh3ZPLudWr0aQ-16vxLMvAGBsorLMdgqBheoPODeh6Oy42Nt9sGeUQSM4Ap3acvUhe6o2eO5-nCQ0cRmcZ2Wb9uPGsnpG0piYG6e9zGo19HYYq8faRI4TEr6uUMinfVi8kzbDoayRzQOU3IhbFHS47B8V=w1919-h952)
 
-Para hospedar o site utilizando Node.js acesse o link a seguir:
+Node.js é um ambiente de execução de código aberto, multi-plataforma de Javascript. Roda a partir do motor de execução V8, o mesmo utilizado em navegadores como Google Chrome, possibilitando uma grande performance so código sem comprometer o uso de recursos do sistema.
+
+O amplo suporte de sistemas de hospedagem e sistemas operacionais, o uso da linguagem javascript, que diminui a curva de aprendizado, e o caráter assíncrono orientado a eventos da linguagem a tornam uma ótima opção para o desenvolvimento de aplicações web, fatores que pesaram no momento de nossa escolha.
+
+Para hospedar o site utilizando Node.js, acesse o link a seguir:
 
 https://www.heroku.com/nodejs
 
