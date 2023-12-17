@@ -40,15 +40,47 @@ Como diz o nome, a primeira Heurística de Nielsen se baseia em manter o usuári
 
 Dentro do IFID, mensagens de feedback de criação, alteração e exclusão de crachá são um exemplo da primeira heurística, reduzindo a incerteza do usuário quanto a suas ações e reforçando aos mesmos o estado do sistema.
 
+![Imagem do Feedback de Criação]()
+
 ### [[HN-02] Compatibilidade entre o sistema e o mundo real](#tabela-de-conteúdos)
+
+Essa heurística destaca a importância de projetar interfaces que sigam as convenções do mundo real, tornando a interação mais familiar e intuitiva para os usuários. Tais convenções variam de formas de icones, palavras e entre outros. 
+
+Dentro do IFID, os verbos no intuitivo dos botões de criar, alterar, modificar e deletar são um exemplo da segunda heurística, reduzindo a probabilidade de erros e acelerando a interação do usuário, uma vez que os conceitos são familiares e alinhados às experiências cotidianas.
+
+![Imagem dos Botões]()
 
 ### [[HN-03] Consistência e Padronização](#tabela-de-conteúdos)
 
+Esta heurística destaca a importância de manter uma interface consistente e seguir padrões de design para proporcionar uma experiência de usuário mais intuitiva e previsível. Isso ocorre por meio da padronização de interface, icones e formas.
+
+Dentro do IFID, os pop ups de criação, alteração, login e cadastro, seguem um mesmo padrão visando a instauração de uma interface consistente e agradável, sendo um dos exemplos dessa heurística. 
+
+![Imagem dos Pop Ups]()
+
 ### [[HN-04] Prevenção de erros](#tabela-de-conteúdos)
+
+Essa heurística destaca a importância de projetar interfaces que evitem que os usuários cometam erros, ou, caso erros ocorram, minimizem as consequências. Isso ocorre por meio de mensagens e avisos de confirmação de ações.
+
+Dentro do IFID, os avisos de confirmação de exclusão e alteração de crachás, são um exemplo dessa heurística.
+
+![Imagem dos avisos]()
 
 ### [[HN-05] Reconhecimento em vez de memorização](#tabela-de-conteúdos)
 
+Essa heurística destaca a importância de projetar interfaces de modo que os usuários possam reconhecer e entender facilmente as opções e funcionalidades, em vez de dependerem da memorização de informações. Isso ocorre por meio da padronização de elementos da interface com base em outras que derivam de um mesmo objetivo, como por exemplo as interfaces de e-comerce.
+
+Dentro do IFID, a disposição de elementos e informações segue a mesma lógica do site patrono do IFPA, aprimorando a usabilidade e reduzindo a carga cognitiva dos usuários, tornando a interação mais intuitiva.
+
+![Imagem da interface do usuário e do IFPA]()
+
 ### [[HN-06] Eficiência e flexibilidade de uso](#tabela-de-conteúdos)
+
+Essa heurística destaca a importância de projetar interfaces que sejam eficientes para usuários novatos e, ao mesmo tempo, permitam um uso flexível e eficiente para usuários experientes. Um exemplo seriam os atalhos de teclado como "control-x" que para um usuário novato podem ser desconhecidas, mas com o tempo os mesmos passam a utilizá-la com maior afinco.
+
+Dentro do IFID, a interface centrada em apenas uma página representa grande parte da flexibilidade de uso, pois por sua simplicidade acaba sendo 
+
+![Imagem da home]()
 
 ### [[HN-07] Estética e design minimalista](#tabela-de-conteúdos)
 
