@@ -64,7 +64,12 @@ A razão da utilização de testes unitários durante o desenvolvimento do proje
 
 ### [Testes de Integração](#tabela-de-conteúdos)
 
+Testes de integração são uma prática de teste de software que visa verificar se diferentes módulos ou componentes de um sistema interagem entre si de maneira adequada. O objetivo principal é identificar problemas que podem surgir quando unidades individuais são combinadas para formar um sistema completo. Esses testes garantem que os diversos componentes integrados funcionem corretamente em conjunto.
+
+A razão da utilização de testes de integração durante o desenvolvimento do projeto foram diversas, mas entre elas destacam-se: melhoria na qualidade do software, garantia de fluxo de dados adequados e maior facilidade de identificação de conflitos entre componentes.
+
 ### [Testes de Sistema](#tabela-de-conteúdos)
 
+Os testes de sistema são uma fase crítica do ciclo de vida do desenvolvimento de software, focados em avaliar o sistema como um todo para garantir que ele atenda aos requisitos especificados. Esses testes são realizados após os testes unitários e de integração e antes do lançamento do software. O objetivo é verificar se o sistema está pronto para ser implantado e se ele opera conforme o esperado em um ambiente comercial.
 
-
+A razão da utilização de testes de sistema durante o desenvolvimento do projeto foram diversas, mas entre elas destacam-se: prevenção de possíveis problemas pós lançamento, maior validação da segurança do sistema e definição de desempenho e escalabilidade.
