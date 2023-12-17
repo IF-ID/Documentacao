@@ -34,6 +34,8 @@ O motivo de sua escolha como ponto pricipal dos testes de aceitação deriva de 
 
 ### [[HN-04] Prevenção de erros](#tabela-de-conteúdos)
 
+### [[HN-05] Reconhecimento em vez de memorização](#tabela-de-conteúdos)
+
 ### [[HN-06] Eficiência e flexibilidade de uso](#tabela-de-conteúdos)
 
 ### [[HN-07] Estética e design minimalista](#tabela-de-conteúdos)
