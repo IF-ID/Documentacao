@@ -10,6 +10,8 @@ O IFID é um projeto com o objetivo de disponibilizar uma ferramenta para criaç
 - [Requisitos](/Requisitos.md) - Esta seção descreve os requisitos funcionais e não funcionais definidos a partir da análise dos casos de uso.
 - [Testes](/Testes.md) - Esta seção descreve a documentação dos testes de aceitação, unidade, integração e sistema do Projeto, além dos resultados alcançados.
 - [Hospedagem](/Hospedagem.md) - Esta seção descreve a documentação aprofundada sobre a hospedagem do projeto e as razões da escolha desse ambiente.
+- [Prototipação](/Prototipação.md) - Esta seção descreve a documentação aprofundada sobre a prototipação do projeto e as razões das escolhas de desenvolvimento.
+
 ## Autores
 
 - João Miguel - [@liljmmiguel13](https://www.github.com/liljmmiguel13)
