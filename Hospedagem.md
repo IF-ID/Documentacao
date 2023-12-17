@@ -10,7 +10,7 @@ No caso do IFID, o serviço escolhido para a realização da hospedagem de site 
 ## Tabela de Conteúdos
 
 - [Heroku](#heroku)
-  - [Heroku em Node.js](#heroku-em-nodejs)
+- [Heroku em Node.js](#heroku-em-nodejs)
 
 # [Heroku](#tabela-de-conteúdos)
 
