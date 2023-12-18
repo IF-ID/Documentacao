@@ -18,9 +18,19 @@ Vale ressaltar que, não necessariamente todos estão 100% corretos, visto que, 
 
 ### [Figma](tabela-de-conteúdos)
 
+O Figma é uma plataforma de design colaborativo baseada na nuvem, que permite que equipes de design trabalhem de forma simultânea em projetos, independentemente da localização geográfica. É amplamente utilizado para prototipagem, design de interfaces de usuário (UI), design de experiência do usuário (UX), e colaboração entre designers, desenvolvedores e outros membros da equipe de projeto.
+
+Sua colaboração em tempo real e a sua acessibilidade em nuvem foram os principais fatores para a sua escolha enquanto ferramenta de desenvolvimento do protótipo navegável.
+
 ### [Draw.io](tabela-de-conteúdos)
 
+O draw.io é uma ferramenta de diagramação online e gratuita que permite criar diagramas, fluxogramas, wireframes e outros tipos de visualizações gráficas, foi o escolhido para a criação tanto de diagramas quanto do wireframe do projeto devido a sua gratuidade e colobaração em tempo real.
+
 # [Guia de Estilo](tabela-de-conteúdos)
+
+Um guia de estilo, no contexto do design e desenvolvimento, é um conjunto de diretrizes, padrões e práticas recomendadas que define a aparência, comportamento e outras características visuais e funcionais de um produto ou marca. Esses guias são essenciais para manter consistência visual e de experiência do usuário em todos os elementos de um projeto. 
+
+> ## Guia de Estilo do IFID
 
 # [Mapa de Navegação](tabela-de-conteúdos)
 
