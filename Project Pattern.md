@@ -198,6 +198,6 @@ BR Modelo é uma ferramenta de criação de modelos de dados. Ele é responsáve
 
 ### [Figma](#tabela-de-conteúdos)
 
-Figma é uma ferramenta de criação de interfaces. Ele é responsável por criar as interfaces e o guia de estilo do projeto.
+Figma é uma ferramenta de criação de interfaces. Ele é responsável por criar as interfaces, o mapa de navegação e o guia de estilo do projeto.
 
 Para saber mais sobre a Prototipação do projeto, [clique aqui](/Prototipação.md)
