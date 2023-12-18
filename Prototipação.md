@@ -20,7 +20,7 @@ Vale ressaltar que, não necessariamente todos estão 100% corretos, visto que, 
 
 O Figma é uma plataforma de design colaborativo baseada na nuvem, que permite que equipes de design trabalhem de forma simultânea em projetos, independentemente da localização geográfica. É amplamente utilizado para prototipagem, design de interfaces de usuário (UI), design de experiência do usuário (UX), e colaboração entre designers, desenvolvedores e outros membros da equipe de projeto.
 
-Sua colaboração em tempo real e a sua acessibilidade em nuvem foram os principais fatores para a sua escolha enquanto ferramenta de desenvolvimento do protótipo navegável.
+Sua colaboração em tempo real e a sua acessibilidade em nuvem foram os principais fatores para a sua escolha enquanto ferramenta de desenvolvimento do protótipo navegável e guia de estilo.
 
 ### [Draw.io](tabela-de-conteúdos)
 
