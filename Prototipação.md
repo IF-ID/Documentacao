@@ -20,7 +20,7 @@ Vale ressaltar que, não necessariamente todos estão 100% corretos, visto que, 
 
 O Figma é uma plataforma de design colaborativo baseada na nuvem, que permite que equipes de design trabalhem de forma simultânea em projetos, independentemente da localização geográfica. É amplamente utilizado para prototipagem, design de interfaces de usuário (UI), design de experiência do usuário (UX), e colaboração entre designers, desenvolvedores e outros membros da equipe de projeto.
 
-Sua colaboração em tempo real e a sua acessibilidade em nuvem foram os principais fatores para a sua escolha enquanto ferramenta de desenvolvimento do protótipo navegável e guia de estilo.
+Sua colaboração em tempo real e a sua acessibilidade em nuvem foram os principais fatores para a sua escolha enquanto ferramenta de desenvolvimento do protótipo navegável, mapa de navegação e guia de estilo.
 
 ### [Draw.io](tabela-de-conteúdos)
 
@@ -43,6 +43,12 @@ O surgimento da marca foi pensado através do decorrer de problemas com relaçã
 
 
 # [Mapa de Navegação](tabela-de-conteúdos)
+
+Um mapa de navegação, também conhecido como diagrama de navegação, é uma representação visual da estrutura e do fluxo de navegação de um sistema ou site. Ele descreve como as páginas, seções ou telas estão interconectadas, permitindo que os designers e desenvolvedores visualizem e compreendam a experiência do usuário ao percorrer o sistema. 
+
+> ## Mapa de Navegação do IFID
+
+![Mapa de Navegação do IFID]
 
 # [Wireframe](tabela-de-conteúdos)
 
